@@ -140,17 +140,15 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Scott Bennett."
-    subtitle: "I will patiently help you get your project done."
-    content: > 
-       I have years of project management and support experience. 
-       If you are a business moving computing infrastructure into the cloud or an artist getting a book made. 
+    title: "Gender Meowster."
+    # subtitle: "I will patiently help you get your project done."
+    #content: > 
     image: /scott_hammock.jpg
     bottomImage:
-      enable: true
+      enable: false
     # roundImage: true # Make hero image circular | default false
     button:
-      enable: true
+      enable: false
       name: "Resume"
       url: "/Scott_Bennett_Resume.docx"
       download: true
@@ -159,13 +157,13 @@ params:
 
   # About
   about:
-    enable: true
+    enable: false
     title: "About Me"
     image: "/images/me.png"
     content: | 
       I have years of experience working with Linux and troubleshooting large complex data flows.
     skills:
-      enable: true
+      enable: false
       title: "Here are a few technologies I've been working with recently:"
       items:
         - "Amazon Web Services"
