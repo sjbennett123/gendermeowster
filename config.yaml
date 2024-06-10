@@ -33,27 +33,27 @@ Menus:
       weight: 1
     - identifier: contact
       name: contact
-      title: contact
+      title: Contact
       url: /contact
       weight: 2
     - identifier: contributors
       name: contributors
-      title: contributors
+      title: Contributors
       url: /contributors
       weight: 3
     - identifier: links
       name: links
-      title: links
+      title: Links
       url: /links
       weight: 3
     - identifier: schedule
       name: schedule
-      title: schedule
+      title: Schedule
       url: /schedule
       weight: 3
     - identifier: support
       name: support
-      title: support
+      title: Support
       url: /support
       weight: 3
     #Dropdown menu
@@ -75,8 +75,8 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Scott Bennett"
-  description: Hi, my name is Scott Bennett. I will patiently help you get your project done. 
+  title: "Gender Meowster"
+  description: Hi, my name is Gender Meowster
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -180,7 +180,7 @@ params:
 
   # Experience
   experience:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - job: "Site Reliabiliy Engineer"
@@ -291,7 +291,7 @@ params:
 
   # Education
   education:
-    enable: true
+    enable: false
     # title: "Custom Name"
     index: false
     items:
@@ -319,7 +319,7 @@ params:
 
   #Contact
   contact:
-    enable: true
+    enable: false
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     email: scott.james.bennett@gmail.com

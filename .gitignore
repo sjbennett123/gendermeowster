@@ -1,4 +1,5 @@
-public/
+public/*
+public/!_redirects
 .hugo_build.lock
 
 # Local Netlify folder
