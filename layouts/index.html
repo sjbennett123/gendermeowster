@@ -13,9 +13,16 @@
 
 
 {{ define "main" }}
-<p style="text-align:center;">
-<iframe width="560" height="315" src="{{ .Params.youtube_link }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-</p>
+{{- partial "sections/hero/index.html" . -}}
+
+
+{{- partial "sections/about.html" . -}}
+
+<a name="contact"><h2>Contact</h2></a>
+
+<p>Write what you'd like to share with The Clowder!</p>
+<a href="https://forms.gle/Webf7b6RzdHXyYydA"><img src="/google_forms.png" alt="Google Form" style="width:50px;"></a>
+
 
 {{ end }}

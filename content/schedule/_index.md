@@ -1,5 +1,6 @@
 ---
 title: Schedule of Shows
+layout: single
 ---
 
 ## Genderful Podcast

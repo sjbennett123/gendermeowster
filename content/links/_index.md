@@ -1,5 +1,7 @@
 ---
 title: Links
+layout: single
+socialShare: false
 ---
 
 ## @GenderMeowster (they/them)

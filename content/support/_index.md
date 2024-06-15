@@ -1,5 +1,8 @@
 ---
 title: Support the Clowder
+layout: single
+socialShare: false
+toc: false
 ---
 
 Your support helps us keep the Clowder and all of our efforts going! 
