@@ -2,25 +2,3 @@
 youtube_link: https://www.youtube.com/embed/1sB_29ywX0Y?si=nF0ECsjeRz4OcfZl
 ---
 
-{{ define "head" }}
-<meta name="description" content={{ .Site.Params.description }}>
-<link rel="stylesheet" href="{{ .Site.Params.staticPath }}/css/index.css" media="all">
-<link rel="stylesheet" href="{{ .Site.Params.staticPath }}/css/projects.css" media="all">
-
-<!-- fontawesome -->
-<script defer src="{{ .Site.Params.staticPath }}/fontawesome-5/all-5.15.4.js"></script>
-{{ end }}
-
-{{ define "title" }}
-{{ .Site.Title }}
-{{ end }}
-
-
-{{ define "main" }}
-<h1> tomato </h1>
-<p style="text-align:center;">
-<iframe width="560" height="315" src=".Params.youtube_link" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</p>
-
-{{ end }}

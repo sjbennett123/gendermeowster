@@ -1,9 +1,12 @@
 ---
 title: Schedule of Shows
 layout: single
+socialShare: true
 ---
 
 ## Genderful Podcast
+
+
 
 Every other Monday (timestamp for 3:30pm Pacific)
 
