@@ -2,5 +2,6 @@
 title: Contact Us
 ---
 
-- Webpage needs: webform (google?)
-- Webform to fill out to contact - [here is a google form](https://forms.gle/Webf7b6RzdHXyYydA)
+Write what you'd like to share with The Clowder!
+
+[![alt text](google_form.png "Title")](https://forms.gle/Webf7b6RzdHXyYydA)
