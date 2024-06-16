@@ -3,7 +3,6 @@ title: Contributors
 # [Bios Reference](https://docs.google.com/document/d/1nShgv3tFabyAbDXa1ylSSt0Tw4ucjW55cYVgEIMP5tk/edit?usp=sharing)
 admewns_and_senior_staff: adsf
 layout: single
-
 ---
 
 ## Clowder Contributors
