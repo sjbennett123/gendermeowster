@@ -1,8 +1,8 @@
+
 <section id="hero" class="py-5 align-middle">
+<iframe style="display: block; margin: auto;"width="560" height="315" src="{{ .Params.youtube_link }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <div class="container px-3 px-sm-5 px-md-5 px-lg-5 pt-lg-3">
         <div class="row">
-<p style="text-align:center;">
-<iframe width="560" height="315" src="{{ .Params.youtube_link }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
     </div>
     {{ if .Site.Params.hero.bottomImage.enable | default true }}
     <div class="hero-bottom-svg d-md-block d-lg-block d-none">

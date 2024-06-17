@@ -56,6 +56,11 @@ Menus:
       title: Support
       url: /support
       weight: 3
+    - identifier: merch
+      name: Merch
+      title: Merch
+      url: /merch
+      weight: 3
 
 
 params:

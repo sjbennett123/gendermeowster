@@ -1,31 +1,84 @@
 ---
 title: Contributors
 # [Bios Reference](https://docs.google.com/document/d/1nShgv3tFabyAbDXa1ylSSt0Tw4ucjW55cYVgEIMP5tk/edit?usp=sharing)
-admewns_and_senior_staff: adsf
-layout: single
----
+# check 
+layout: contributors
+team_list: 
+  - Admewns and Senior Staff
+  - Bot Wranglers
+  - Content Editors
+  - Discord Community Ambassadors
+  - Discord Mods
+  - Fundraising
+  - Graphic Designers
+  - Merch Wranglers
+  - Podcast Team
+  - Producers and Stage Managers
+  - Social Media Team
+  - Solidarity Team
+  - Twitch Mods
+  - Youtube Mods
+  - Web Developers
+staff:
+  - name: GenderMeowster 
+    website: https://linktr.ee/GenderMeowster
+    pronouns: they/them
+    aka: MeowsterThemself
+    bio: is a white, nonbinary, trans masc, disabled, AuDHD content creator and the instigator of GenderMeowster (community), Genderful (Podcast), and Gender Federation (stream team).
+    teams:
+      - Admewns and Senior Staff
+      - Bot Wranglers
+      - Content Editors
+      - Discord Community Ambassadors
+      - discord mods 
+  - name: Kaemsi
+    website: https://kaemsi.carrd.co
+    prounouns: she/her
+    teams:
+      - admewns_and_senior_staff
+  - name: hexagonelle]
+    website: https://twitch.tv/hexagonelle
+    prounouns: they>she
+    teams:
+      - admewns_and_senior_staff
+  - name: Muiramme]
+    website: https://www.twitch.tv/Muiramme
+    prounouns: she/they
+    teams:
+      - admewns_and_senior_staff
+  - name: Ray_of_Swords]
+    website: https://rayofswords.carrd.co
+    prounouns: it/they
+    teams:
+      - admewns_and_senior_staff
+  - name: elle]
+    website: https://twitter.com/vantiss
+    prounouns: she/her
+    teams:
+      - admewns_and_senior_staff
+  - name: elle]
+    website: https://twitter.com/vantiss
+    prounouns: she/her
+    teams:
+      - admewns_and_senior_staff
 
+   
+---
+[hexagonelle](https://twitch.tv/hexagonelle) (they>she)
+
+[Muiramme](https://www.twitch.tv/Muiramme) (she/they)
 ## Clowder Contributors
 
 ### Admewns and Senior Staff
 
-[GenderMeowster](https://linktr.ee/GenderMeowster) (they/them)
 
-[Kaemsi](https://kaemsi.carrd.co) (she/her)
+admewns_and_senior_staff
 
-[hexagonelle](https://twitch.tv/hexagonelle) (they>she)
 
-[Muiramme](https://www.twitch.tv/Muiramme) (she/they)
-
-[Ray_of_Swords](https://rayofswords.carrd.co) (it/they)
 
 ### Bot Wranglers
 
-[elle](https://twitter.com/vantiss) (she/her)
 
-[hexagonelle](https://twitch.tv/hexagonelle) (they>she)
-
-[Muiramme](https://www.twitch.tv/Muiramme) (she/they)
 
 ### Content Editors
 
@@ -41,7 +94,7 @@ layout: single
 
 [Juice](https://linktr.ee/juicetex) (he/she/any neopronouns)
 
-### Discord Mod
+### discord mods
 
 [FreeRangeMegs](https://twitch.tv/freerangemegs) (she/they/xe)
 
@@ -142,15 +195,15 @@ layout: single
 [Ray_of_Swords](https://rayofswords.carrd.co) (it/they)
 
 
-### Web Developer
+### web_developers
 
 [FreeRangeMegs](https://twitch.tv/freerangemegs) (she/they/xe)
 
 [TransCapybara](https://www.twitch.tv/transcapybara) (she/her)
 
 ## Staff Bios
-
 [Alexis Vandom](https://twitter.com/VandomVA) (she/her) is a transgender professional voice actress, director, producer, and casting assistant whose credits include smash-hit indie animated series Lackadaisy, trans sci-fi saga Stardust, and animated webcomic adaptation Rain: The Animated Series. Alexis also serves as a trans/NB vocal coach through her business, Vandom Voice Academy. Website: https://www.alexisvandom.com/ and Vandom Voice Academy: https://vandomvoiceacademy.com/
+
 
 [Auggy / Mrs. Gendered](https://www.mrsgendered.com/) is a disabled queer free-lance illustrator based in Tx. They seek to create safe places for LGBTQ+ folks to enjoy art and experience healthy community.
 
