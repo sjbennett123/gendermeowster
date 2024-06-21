@@ -1,0 +1,2 @@
+# https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
+/todo     https://boards.clowderlabs.com/boards/1240640241413392010
