@@ -1,2 +1,7 @@
 # https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
 /todo     https://boards.clowderlabs.com/boards/1240640241413392010
+/throne   https://throne.com/gendermeowster/item/afa137f0-3f6b-45b9-97cb-0c6933155703
+/twitch   https://twitch.tv/gendermeowster
+/discord  http://discord.gg/meowster
+/youtube  https://www.youtube.com/channel/UCVcV_RcLVxKMASqUnqSErzA?sub_confirmation=1
+/email    https://mailchi.mp/c0dfe546a4fe/e-newsletter

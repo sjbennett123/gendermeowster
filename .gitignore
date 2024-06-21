@@ -2,6 +2,7 @@
 public/!_redirects
 public/*
 .hugo_build.lock
+public/!_redirects
 
 # Local Netlify folder
 .netlify
