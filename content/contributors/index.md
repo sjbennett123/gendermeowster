@@ -160,4 +160,7 @@ staff:
     pronouns: he/him
     picture: scott_bennett_small.png
   - name: Momster
+    picture: momster_small
+    bio: Serial entrepreneur specializing in leadership & organizational efficiency
+
 ---
