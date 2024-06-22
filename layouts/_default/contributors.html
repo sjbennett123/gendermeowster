@@ -37,7 +37,10 @@
 
           
           <h2>Staff Bios</h2>
-{{ .Params.staff }}
+{{ range .Params.staff }}
+<p><b>{{ .name }}</b>({{ .pronouns }}) - {{ .bio }}</p>
+
+{{ end }} 
           
           {{ .Content | emojify }}
 

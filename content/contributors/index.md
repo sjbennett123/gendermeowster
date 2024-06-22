@@ -29,25 +29,22 @@ staff:
   - name: Kaemsi
     website: https://kaemsi.carrd.co
     pronouns: she/her
-  - name: hexagonelle]
+  - name: hexagonelle
     website: https://twitch.tv/hexagonelle
     pronouns: they>she
-  - name: Muiramme]
+  - name: Muiramme
     website: https://www.twitch.tv/Muiramme
     pronouns: she/they
-  - name: Ray_of_Swords]
+  - name: Ray_of_Swords
     website: https://rayofswords.carrd.co
     pronouns: it/they
-  - name: elle]
-    website: https://twitter.com/vantiss
-    pronouns: she/her
-  - name: elle]
+  - name: elle
     website: https://twitter.com/vantiss
     pronouns: she/her
   - name: BurnsBothEnds
     website: https://burnsbothends.tumblr.com
-    pronouns: she/her
-    bio: When I'm not raging at the world, I'm talking about the many books I'm reading, my thoughts on social systems, sharing things I think you'll like, or taking selfies because the world can't grind me down. Personal causes... ableism, fatphobia, queer shit, more.
+    pronouns: they/she
+    bio: is a coordinator, facilitator, artist, and troublemaker trying to help people make the world a little bit better.
   - name: Alexis Vandom
     websites: 
       - https://twitter.com/VandomVA
@@ -63,13 +60,13 @@ staff:
     pronouns:
     bio: is a disabled queer free-lance illustrator based in Tx. They seek to create safe places for LGBTQ+ folks to enjoy art and experience healthy community.
   - name: CyBearPunkboy
-    websites: https://www.twitch.tv/cybearpunkboy   
-    pronouns: he/him, cis  
+    website: https://www.twitch.tv/cybearpunkboy
+    pronouns: he/him, cis
     bio: is your friendly neighborhood himbo bear, here to help out in any way possible!
   - name: DJNrrd
     websites: https://linktr.ee/DJNrrd
     pronouns: He/Him or E/Fe in Welsh
-    bio: is a white, aromantic, probably neurospicy general nrrd.  Looking after technical infrastructure for the community,  DJ also streams point & click and puzzle games on Twitch.
+    bio: is a white, aromantic, probably neurospicy general nrrd. Looking after technical infrastructure for the community, DJ also streams point & click and puzzle games on Twitch.
   - name: elle
     website: https://social.treehouse.systems/@vantiss/
     pronouns: she/her
@@ -79,9 +76,9 @@ staff:
     bio: has been a content creator since 2008, and online community organizer and informal spiritual educator since 2009. They didn't realize any of those things until later, and got more formal with them over the years. Also known as cutewitch772 most places on the internet, they are a queer, vegan, anti-racist, intersectional feminist, neurodiverse, Pagan Witch, and likely to speak about any of those topics. Cara holds a degree in Theatre Arts, and having worked and played both onstage and behind the scenes, finds those lessons being present everywhere she goes.
   - name: FreeRangeMegs
     website: https://twitch.tv/freerangemegs
-    pronouns: she/they/xe  
+    pronouns: she/they/xe
     bio: is a meme-loving, software-developing, music-writing, trans, pan, polyam, mess from outer space.
-  - name: gothicpluto /    
+  - name: gothicpluto
     website: https://gothicpluto.carrd.co
     pronouns: she/star
     bio: is a cozy, queer, and disabled content creator with a passion for social justice, and an affinity for farming simulators. Star is a member of the disabled content creators collective and aims to create a cozy safer space for marginalized folks on twitch!
@@ -89,19 +86,19 @@ staff:
     website: https://lnk.bio/harlecryptid
     pronouns: he/they
     bio: is a 32 yo queer, disabled, polyam parent. Amateur artist, hobbyist photographer, part-time cosplayer, streamer  all console, rarely PC .
-  - name: hexagonelle     
+  - name: hexagonelle
     website: https://www.twitch.tv/hexagonelle
     pronouns: rune>they>she
     bio: is your local demonic physics witch, and nonbinary, transfem, and acespec to boot! Catch them at twitch.tv/hexagonelle
-  - name: jylietmaddy   
+  - name: jylietmaddy
     website: https://www.twitch.tv/jylietmaddy
     pronouns: they 
     bio: are weirdos, geeks, and freaks.
-  - name: Juice https://linktr.ee/juicetex   he/she/any neopronouns  helps mod Twitch and Discord, plus he is the producer, stage manager, and guest wrangler for Genderful. Xe streams a variety of content on a random schedule at https://www.twitch.tv/juice_tex
-    website: 
-    pronouns: 
-    bio: 
-  - name: Kaemsi      
+  - name: Juice
+    website: https://linktr.ee/juicetex
+    pronouns: he/she/any neopronouns 
+    bio: "helps mod Twitch and Discord, plus he is the producer, stage manager, and guest wrangler for Genderful. Xe streams a variety of content on a random schedule at https://www.twitch.tv/juice_tex"
+  - name: Kaemsi
     website: https://kaemsi.carrd.co
     pronouns: she/her
     bio: "is a South African indian woman working on her Psychology degree, and works freelance as a Diversity, Equity & Inclusion Consultant. She also is mostly known around the internet as a variety streamer on Twitch. Lover of laughs with liberal spice, her spaces also firmly uphold the belief that #DiversityIsGlorious!"
@@ -113,7 +110,7 @@ staff:
     website: 
     pronouns: 
     bio: 
-  - name: nassattack    
+  - name: nassattack
     website: 
     pronouns: she/her
     bio: is a queer trans content creator and ne'er do well.
@@ -121,15 +118,11 @@ staff:
     website: https://www.twitch.tv/Muiramme
     pronouns: she/they
     bio: does a bunch of supportive admin things for Meowster and very occasionally streams their own things.
-  - name: Lexington      is a gender-enigmatic artistic entity, and our Team Lead for Content Editors and Graphic Designers. His main projects are the graphics supply for social media and the final editing of the Genderful Podcast.
-    website: https://transgriffin.com
-    pronouns: he/they
-    bio: 
-  - name: transguyenergy     
+  - name: transguyenergy
     website: linktr.ee/transguyenergy
     pronouns: he/him
     bio: is a bisexual, latine and neurodivergent trans man who enjoys making queer community, content creation, and eating snacks while supporting his friends on Twitch.
-  - name: TransCapybara     
+  - name: TransCapybara
     website: https://www.twitch.tv/transcapybara
     pronouns: she/her
     bio: is GenderMeowster's wife. She writes software by day and cooks delicious food at night. She'll sometimes come on stream to read from a book or to make funny noises.
@@ -137,21 +130,21 @@ staff:
     website: https://transgriffin.com
     pronouns: he/they
     bio: is a gender-enigmatic artistic entity, and our Team Lead for Content Editors and Graphic Designers. His main projects are the graphics supply for social media and the final editing of the Genderful Podcast.
-  - name: Tazigo, or Tazi   
+  - name: Tazigo, or Tazi
     website: 
     pronouns: she/her
     bio: is a prolific twitch mod and teacher of tiny humans. Unfortunately they keep growing, and she feels older and shorter every day.
-  - name: SunflaresSpace      
+  - name: SunflaresSpace
     website: https://www.twitch.tv/SunflaresSpace
     pronouns: she/her
     bio: is a psychology student, crafter-of-all-trades and ascribes to aggressive positivity towards herself and her friends. Often this leads to tangents about selfcare on her streams, to her friends' amusement.
   - name: trashcanwolves
     pronouns: is/are
-  - name: WillowMist      
+  - name: WillowMist
     website: https://twitch.com/willowmist23
     pronouns: she/her
-    bio: is an aging trans woman she/her  who only found herself a few years ago. She loves board games and LEGO sets, and loves spending time with the community.
-  - name: Sunberry   
+    bio: is an aging trans woman she/her who only found herself a few years ago. She loves board games and LEGO sets, and loves spending time with the community.
+  - name: Sunberry
     website: https://sunberrystudios.carrd.co
     pronouns: she/they
     bio: is a graphic designer, video editor, and content creator celebrating authentic joy and passion projects for folks all over the world.
@@ -159,11 +152,11 @@ staff:
     website: https://stamkunst.carrd.co/
     pronouns: they/them
     bio: is a nonbinary, cozy arts and crafts streamer, who's not rude, just Dutch! They strongly value kindness, making people laugh, and love using their creative abilities for a good cause.
-  - name: Rosa_Ylva      
+  - name: Rosa_Ylva
     website: https://twitch.tv/rosa_ylva
     pronouns: she/her
     bio: is a LGBTQIA+ activist from Australia. She is involved in many different LGBTQIA+ projects, including being the owner of the Aegis Security System.
-  - name: Ray_of_Swords      
+  - name: Ray_of_Swords
     website: https://rayofswords.carrd.co
     pronouns: it/they
     bio: is the multi-mod with a passion for collecting virtual swords, so much so that it now owns a real sword too! They also have many hobbies, including streaming on their own channel and sometimes it joins Meowster on stream to play cute cozy games.
