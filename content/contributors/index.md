@@ -36,6 +36,7 @@ staff:
     pronouns: she/her
   - name: BurnsBothEnds
     website: https://burnsbothends.tumblr.com
+    picture: burnsbothends.jpg
     pronouns: they/she
     bio: is a coordinator, facilitator, artist, and troublemaker trying to help people make the world a little bit better.
   - name: Alexis Vandom
@@ -141,7 +142,7 @@ staff:
     pronouns: it/they
     bio: is the multi-mod with a passion for collecting virtual swords, so much so that it now owns a real sword too! They also have many hobbies, including streaming on their own channel and sometimes it joins Meowster on stream to play cute cozy games.
   - name: Scott Bennett
-    website: https://scottjbennett.com
+    website: https://www.scottjbennett.com
     pronouns: he/him
     picture: scott_bennett_small.png
 ---

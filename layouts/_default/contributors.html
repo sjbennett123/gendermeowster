@@ -38,7 +38,7 @@
           
           <h2>Staff Bios</h2>
 {{ range sort   .Params.staff "name" }}
-<p><a href="{{.website}}"  target="_blank">{{ if  .picture }}<img src="./{{ .picture }}" alt="{{ .name }}" style="width:100px;height:100px;">{{ end }}<b>{{ .name }}</a></b> ({{ .pronouns }}) - {{ .bio }}</p>
+<p><a href="{{.website}}"  target="_blank">{{ if .picture }}<img src="./{{ .picture }}" alt="{{ .name }}" style="width:100px;height:100px;">{{ end }}<b>{{ .name }} {{ if .aka }} aka {{ .aka}} {{ end }}</a></b> ({{ .pronouns }}) - {{ .bio }}</p>
 
 {{ end }} 
           
