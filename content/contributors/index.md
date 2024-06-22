@@ -92,10 +92,12 @@ staff:
     bio: Kamianya is a nonbinary, queer, neurodivergent, disabled, Jewish academic and streamer. Streaming wise, they love indie games, and academically their focus is linguistic anthropology focused on gender.
   - name: nicreative
     pronouns: she/he
-    
+    bio: loves balancing sheets and helps the Clowder with tracking receipts.
   - name: nassattack
     pronouns: she/her
     bio: is a queer trans content creator and ne'er do well.
+    website: https://youtube.com/@nassattack?si=GaysoNt2XJLZ7VwF
+    picture: miranda_nassattack_small.png
   - name: Muiramme
     website: https://www.twitch.tv/Muiramme
     picture: muiramuppet_small.png
