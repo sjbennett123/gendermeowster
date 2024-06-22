@@ -41,16 +41,19 @@
 </p>
 
           
-          <h2>Staff Bios</h2>
-       <table>
-  
+<h2>Staff Bios</h2>
+<table>
+ 
 {{ range sort   .Params.staff "name" }}
-  <tr> <th width="100"><a href="{{ .website }}"  target="_blank">
+  <tr> <th width="100" valign="top"><a href="{{ .website }}"  target="_blank">
     {{ if .picture }}<img src="./{{ .picture }}" alt="{{ .name }}" style="width:100px;height:100px;">
     {{ else }}<img src="./gay.png" alt="{{ .name }}" style="width:100px;height:100px;"> 
-    {{ end }}</a></th> 
-    <th><a href="{{ .website }}"  target="_blank"><b>{{ .name }} {{ if .aka }} aka {{ .aka}} {{ end }}</a></b> ({{ .pronouns }}) - {{ .bio }}</th></tr>
-
+    {{ end }}</a>
+    </th> 
+    <th valign="top"><a href="{{ .website }}"  target="_blank"><b>{{ .name }} {{ if .aka }} aka {{ .aka}} {{ end }}</a></b> ({{ .pronouns }})  {{ .bio }}
+    <p></p>
+    </th></tr>
+<tr><th><p></p></th><th><p></p></th></tr>
 {{ end }} 
        </table>
 
