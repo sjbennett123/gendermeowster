@@ -34,38 +34,10 @@
           {{ end }}
           <article class="page-content  p-2">
           
-{{ $var := 6 }}
-{{ if eq $var 6 }}tomato
-{{ end }}
 
-{{ range  .Params.team_list }}
-{{ $current_team := . }}
-<p>
-{{ if eq $current_team $current_team }}<i class="fa-solid fa-user-tie"></i>
-{{ else if eq $current_team "asdfdsaf" }}<i class="fa fa-robot"></i>
-{{ end }}
-<b>{{ $current_team }}</b> </p>
-
-{{ end }}
-
-          <p><i class="fas fa-crown"></i> <b>Admewns and Senior Staff:</b> Sam,Frank, Robert</p>
-          <p><i class="fa fa-robot"></i> <b>Bot Wranglers</b></p>
-          <p><i class="fa fa-pen-nib"></i> <b>Content Editors</b></p>
-          <p><i class="fa-brands fa-discord"></i> <b>Discord Community Ambassadors</b></p>
-          <p><i class="fa fa-discord"></i> <b>Discord Mod</b></p>
-          <p><i class="fa fa-dollar-sign"></i> <b>Fundraising</b></p>
-          <p><i class="fa fa-paintbrush"></i><b>Graphic Designers</b></p>
-          <p><i class="fa-solid fa-shirt"></i> <b>Merch Wranglers</b></p>
-          <p><i class="fa fa-microphone"></i><b>Podcast Team</b></p>
-          <p><i class="fa-regular fa-message"></i> <b>Producers and Stage Managers</b></p>
-          <p><i class="fa-solid fa-bullhorn"></i> <b>Social Media Team</b></p>
-          <p><i class="fa-solid fa-user"></i> <b>Solidarity Team</b></p>
-          <p><i class="fa fa-twitch"></i><b>Twitch Mods</b></p>
-          <p><i class="fa fa-youtube"></i><b>Youtube Mods</b></p>
-          <p><i class="fa fa-spider"></i><b>Web Developers</b></p>
           
           <h2>Staff Bios</h2>
-
+{{ .Params.staff }}
           
           {{ .Content | emojify }}
 
