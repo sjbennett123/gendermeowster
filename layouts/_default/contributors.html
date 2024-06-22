@@ -34,13 +34,26 @@
           {{ end }}
           <article class="page-content  p-2">
           
+<h2>Teams</h2>
+<p>{{ range .Params.team_list }}
+{{ . }}, 
+{{ end }}
+</p>
 
           
           <h2>Staff Bios</h2>
+       <table>
+  
 {{ range sort   .Params.staff "name" }}
-<p><a href="{{.website}}"  target="_blank">{{ if .picture }}<img src="./{{ .picture }}" alt="{{ .name }}" style="width:100px;height:100px;">{{ end }}<b>{{ .name }} {{ if .aka }} aka {{ .aka}} {{ end }}</a></b> ({{ .pronouns }}) - {{ .bio }}</p>
+  <tr> <th width="100"><a href="{{ .website }}"  target="_blank">
+    {{ if .picture }}<img src="./{{ .picture }}" alt="{{ .name }}" style="width:100px;height:100px;">
+    {{ else }}<img src="./gay.png" alt="{{ .name }}" style="width:100px;height:100px;"> 
+    {{ end }}</a></th> 
+    <th><a href="{{ .website }}"  target="_blank"><b>{{ .name }} {{ if .aka }} aka {{ .aka}} {{ end }}</a></b> ({{ .pronouns }}) - {{ .bio }}</th></tr>
 
 {{ end }} 
+       </table>
+
           
           {{ .Content | emojify }}
 
