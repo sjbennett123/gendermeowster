@@ -1,7 +1,18 @@
 # https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
-/todo     https://boards.clowderlabs.com/boards/1240640241413392010
-/throne   https://throne.com/gendermeowster/item/afa137f0-3f6b-45b9-97cb-0c6933155703
-/twitch   https://twitch.tv/gendermeowster
-/discord  http://discord.gg/meowster
-/youtube  https://www.youtube.com/channel/UCVcV_RcLVxKMASqUnqSErzA?sub_confirmation=1
-/email    https://mailchi.mp/c0dfe546a4fe/e-newsletter
+/todo                  https://boards.clowderlabs.com/boards/1240640241413392010
+/planka                https://boards.clowderlabs.com/boards/1240640241413392010
+/trello                https://boards.clowderlabs.com/boards/1240640241413392010
+/twitch                https://twitch.tv/gendermeowster
+/discord               http://discord.gg/meowster
+/youtube               https://www.youtube.com/channel/UCVcV_RcLVxKMASqUnqSErzA?sub_confirmation=1
+/email                 https://mailchi.mp/c0dfe546a4fe/e-newsletter
+/patreon               https://www.patreon.com/GenderMeowster?fan_landing=true
+/kofi                  https://ko-fi.com/gendermeowster
+/ko-fi                 https://ko-fi.com/gendermeowster
+/pally                 https://pally.gg/tip/gendermeowster
+/throne                https://throne.com/gendermeowster/item/afa137f0-3f6b-45b9-97cb-0c6933155703
+/streamloots           https://www.streamloots.com/gendermeowster
+/genderfederation      https://linktr.ee/genderfederation
+/genderfed             https://linktr.ee/genderfederation
+/disabledcccollective/ https://www.twitch.tv/team/disabledcccollective
+/contributorinterest   https://docs.google.com/forms/d/e/1FAIpQLSdbmklQzAER8SVfw_fw-PHFM319yUhnWEUHK0-DHu2J85Vfew/viewformb   /interest              https://docs.google.com/forms/d/e/1FAIpQLSdbmklQzAER8SVfw_fw-PHFM319yUhnWEUHK0-DHu2J85Vfew/viewform
