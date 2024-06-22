@@ -125,8 +125,9 @@ staff:
     pronouns: she/her
     bio: is a psychology student, crafter-of-all-trades and ascribes to aggressive positivity towards herself and her friends. Often this leads to tangents about selfcare on her streams, to her friends' amusement.
   - name: trashcanwolves
-    pronouns: is/are
+    pronouns: All Pronouns Collectively; Pronouns Vary by Frontier
     picture: trashcanwolves_small.png
+    bio: Local chaos causing wolves that do various things around the community.
   - name: WillowMist
     website: https://twitch.com/willowmist23
     picture: willow_mist_small.png
