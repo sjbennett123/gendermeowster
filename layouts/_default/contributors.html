@@ -37,8 +37,8 @@
 
           
           <h2>Staff Bios</h2>
-{{ range .Params.staff }}
-<p><b>{{ .name }}</b>({{ .pronouns }}) - {{ .bio }}</p>
+{{ range sort   .Params.staff "name" }}
+<p><a href="{{.website}}"  target="_blank">{{ if  .picture }}<img src="./{{ .picture }}" alt="{{ .name }}" style="width:100px;height:100px;">{{ end }}<b>{{ .name }}</a></b> ({{ .pronouns }}) - {{ .bio }}</p>
 
 {{ end }} 
           

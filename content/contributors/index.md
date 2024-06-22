@@ -1,9 +1,8 @@
 ---
 title: Contributors
-# Bios Reference https://docs.google.com/document/d/1nShgv3tFabyAbDXa1ylSSt0Tw4ucjW55cYVgEIMP5tk/edit?usp=sharing 
-# check 
+# Bios Reference https://docs.google.com/document/d/1nShgv3tFabyAbDXa1ylSSt0Tw4ucjW55cYVgEIMP5tk/edit?usp=sharing
 layout: contributors
-team_list: 
+team_list:
   - Admewns and Senior Staff
   - Bot Wranglers
   - Content Editors
@@ -25,19 +24,13 @@ staff:
     picture: gendermeowster_small.png
     pronouns: they/them
     aka: MeowsterThemself
-    bio: is a white, nonbinary, trans masc, disabled, AuDHD content creator and the instigator of GenderMeowster  community , Genderful  Podcast , and Gender Federation  stream team.
+    bio: is a white, nonbinary, trans masc, disabled, AuDHD content creator and the instigator of GenderMeowster community, Genderful Podcast, and Gender Federation stream team.
   - name: Kaemsi
     website: https://kaemsi.carrd.co
     pronouns: she/her
   - name: hexagonelle
     website: https://twitch.tv/hexagonelle
     pronouns: they>she
-  - name: Muiramme
-    website: https://www.twitch.tv/Muiramme
-    pronouns: she/they
-  - name: Ray_of_Swords
-    website: https://rayofswords.carrd.co
-    pronouns: it/they
   - name: elle
     website: https://twitter.com/vantiss
     pronouns: she/her
@@ -46,17 +39,12 @@ staff:
     pronouns: they/she
     bio: is a coordinator, facilitator, artist, and troublemaker trying to help people make the world a little bit better.
   - name: Alexis Vandom
-    websites: 
-      - https://twitter.com/VandomVA
-      - https://www.alexisvandom.com
-      - https://vandomvoiceacademy.com/
+    picture: alexis_vandom_small.png
+    website: https://www.alexisvandom.com
     pronouns: she/her
-    bio: is a transgender professional voice actress, director, producer, and casting assistant whose credits include smash-hit indie animated series Lackadaisy, trans sci-fi saga Stardust, and animated webcomic adaptation Rain The Animated Series. Alexis also serves as a trans/NB vocal coach through her business, Vandom Voice Academy. 
-    Websites: 
-      - https://www.alexisvandom.com/ 
-      - https://vandomvoiceacademy.com/
+    bio: is a transgender professional voice actress, director, producer, and casting assistant whose credits include smash-hit indie animated series Lackadaisy, trans sci-fi saga Stardust, and animated webcomic adaptation Rain The Animated Series. Alexis also serves as a trans/NB vocal coach through her business, Vandom Voice Academy.
   - name: Auggy / Mrs. Gendered
-    websites: https://www.mrsgendered.com
+    website: https://www.mrsgendered.com
     pronouns:
     bio: is a disabled queer free-lance illustrator based in Tx. They seek to create safe places for LGBTQ+ folks to enjoy art and experience healthy community.
   - name: CyBearPunkboy
@@ -64,12 +52,9 @@ staff:
     pronouns: he/him, cis
     bio: is your friendly neighborhood himbo bear, here to help out in any way possible!
   - name: DJNrrd
-    websites: https://linktr.ee/DJNrrd
+    website: https://linktr.ee/DJNrrd
     pronouns: He/Him or E/Fe in Welsh
     bio: is a white, aromantic, probably neurospicy general nrrd. Looking after technical infrastructure for the community, DJ also streams point & click and puzzle games on Twitch.
-  - name: elle
-    website: https://social.treehouse.systems/@vantiss/
-    pronouns: she/her
   - name: CaraMia
     website: https://thewitchystuff.blogspot.com/p/links.html
     pronouns: they/she
@@ -92,26 +77,22 @@ staff:
     bio: is your local demonic physics witch, and nonbinary, transfem, and acespec to boot! Catch them at twitch.tv/hexagonelle
   - name: jylietmaddy
     website: https://www.twitch.tv/jylietmaddy
-    pronouns: they 
+    pronouns: they
     bio: are weirdos, geeks, and freaks.
   - name: Juice
     website: https://linktr.ee/juicetex
-    pronouns: he/she/any neopronouns 
+    pronouns: he/she/any neopronouns
     bio: "helps mod Twitch and Discord, plus he is the producer, stage manager, and guest wrangler for Genderful. Xe streams a variety of content on a random schedule at https://www.twitch.tv/juice_tex"
   - name: Kaemsi
     website: https://kaemsi.carrd.co
     pronouns: she/her
     bio: "is a South African indian woman working on her Psychology degree, and works freelance as a Diversity, Equity & Inclusion Consultant. She also is mostly known around the internet as a variety streamer on Twitch. Lover of laughs with liberal spice, her spaces also firmly uphold the belief that #DiversityIsGlorious!"
-  - name: Kami Anya      
+  - name: Kami Anya
     website: http://twitch.tv/kamianya
     pronouns: they/them
     bio: Kamianya is a nonbinary, queer, neurodivergent, disabled, Jewish academic and streamer. Streaming wise, they love indie games, and academically their focus is linguistic anthropology focused on gender.
-  - name: nicreative 
-    website: 
-    pronouns: 
-    bio: 
+  - name: nicreative
   - name: nassattack
-    website: 
     pronouns: she/her
     bio: is a queer trans content creator and ne'er do well.
   - name: Muiramme
@@ -131,7 +112,6 @@ staff:
     pronouns: he/they
     bio: is a gender-enigmatic artistic entity, and our Team Lead for Content Editors and Graphic Designers. His main projects are the graphics supply for social media and the final editing of the Genderful Podcast.
   - name: Tazigo, or Tazi
-    website: 
     pronouns: she/her
     bio: is a prolific twitch mod and teacher of tiny humans. Unfortunately they keep growing, and she feels older and shorter every day.
   - name: SunflaresSpace
@@ -160,4 +140,8 @@ staff:
     website: https://rayofswords.carrd.co
     pronouns: it/they
     bio: is the multi-mod with a passion for collecting virtual swords, so much so that it now owns a real sword too! They also have many hobbies, including streaming on their own channel and sometimes it joins Meowster on stream to play cute cozy games.
+  - name: Scott Bennett
+    website: https://scottjbennett.com
+    pronouns: he/him
+    picture: scott_bennett_small.png
 ---
