@@ -78,21 +78,27 @@ affiliated_entities:
 
 support: 
  - name: https://ko-fi.com/gendermeowster
-   url:
+   url: https://ko-fi.com/gendermeowster
+   logo: kofi.png
  - name: https://www.patreon.com/GenderMeowster?fan_landing=true
-   url:
+   url: https://www.patreon.com/GenderMeowster?fan_landing=true
+   logo: patreon.png
  - name: https://pally.gg/tip/gendermeowster
-   url:
+   url: https://pally.gg/tip/gendermeowster
+   logo: pallygg.png
  - name: https://jointhrone.com/u/GenderMeowster
-   url:
+   url: https://jointhrone.com/u/GenderMeowster
+   logo: throne.png
  - name: https://www.streamloots.com/gendermeowster
-   url:
+   url: https://www.streamloots.com/gendermeowster
+   logo: streamloots.png
  - name: https://www.descript.com/?lmref=NaoIoQ
-   url: 
+   url:  https://www.descript.com/?lmref=NaoIoQ
+   logo: descript.png
  - name: https://calendly.com/gendermeowster
-   url: 
- - name: 
-   url: 
+   url: https://calendly.com/gendermeowster
+   logo: calendly.png
+
 socials:
  - name:   https://www.facebook.com/search/top?q=gendermeowster
    url: https://www.facebook.com/search/top?q=gendermeowster
@@ -107,7 +113,6 @@ socials:
    logo: tiktok.png
  - name: https://www.facebook.com/GenderMeowster
    logo: facebook.png
-
  - name: https://mastodon.social/@GenderMeowster
    logo: mastadon.png
  - name: https://bsky.app/profile/gendermeowster.bsky.social
@@ -115,7 +120,11 @@ socials:
    url: https://bsky.app/profile/gendermeowster.bsky.social
  - name: https://www.threads.net/@gendermeowster
    logo: threads.png
+   url: https://www.threads.net/@gendermeowster
  - name: https://www.linkedin.com/company/gendermeowster/
+   logo: linkedin.png
+   url: https://www.linkedin.com/company/gendermeowster/
+
 misc:
  - name: https://www.facebook.com/search/top?q=gendermeowster
    logo: facebook.png
