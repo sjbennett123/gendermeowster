@@ -89,7 +89,7 @@ staff:
     website: http://twitch.tv/kamianya
     picture: kami_anya_small.png
     pronouns: they/them
-    bio: Kamianya is a nonbinary, queer, neurodivergent, disabled, Jewish academic and streamer. Streaming wise, they love indie games, and academically their focus is linguistic anthropology focused on gender.
+    bio: is a nonbinary, queer, neurodivergent, disabled, Jewish academic and streamer. Streaming wise, they love indie games, and academically their focus is linguistic anthropology focused on gender.
   - name: nicreative
     pronouns: she/he
     bio: loves balancing sheets and helps the Clowder with tracking receipts.
@@ -159,8 +159,10 @@ staff:
     website: https://www.scottjbennett.com
     pronouns: he/him
     picture: scott_bennett_small.png
+    bio: is a jack of all trades. He loves Linux, Larp and SHMUPS. Ask him to help you with your project he will probably say yes!
   - name: Momster
+    pronouns: she/her
     picture: momster_small.png
-    bio: Serial entrepreneur specializing in leadership & organizational efficiency
+    bio: is a serial entrepreneur specializing in leadership & organizational efficiency
 
 ---
