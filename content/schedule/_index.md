@@ -6,8 +6,6 @@ socialShare: true
 
 ## Genderful Podcast
 
-
-
 Every other Monday (timestamp for 3:30pm Pacific)
 
 biweekly talk show interviews gender-diverse people about their special interests.
@@ -48,7 +46,7 @@ Momster (Meowster’s mom) joins MeowsterThemself to read tarot for the communit
 
 Meowster's friends takeover the channel for a week, providing guest content while MeowsterThemself is doing self-care, admin, or on vacation.
 
-## Special events
+## Special Events
 
 ### Marathon Streams
 
