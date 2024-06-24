@@ -77,81 +77,87 @@ affiliated_entities:
     url: https://www.streamloots.com/gendermeowster/referral?referralCode=gendermeowster
 
 support: 
- - name: https://ko-fi.com/gendermeowster
+ - name: ko-fi gendermeowster
    url: https://ko-fi.com/gendermeowster
    logo: kofi.png
- - name: https://www.patreon.com/GenderMeowster?fan_landing=true
+ - name: Patreon GenderMeowster
    url: https://www.patreon.com/GenderMeowster?fan_landing=true
    logo: patreon.png
- - name: https://pally.gg/tip/gendermeowster
+ - name: pally pally
    url: https://pally.gg/tip/gendermeowster
    logo: pallygg.png
- - name: https://jointhrone.com/u/GenderMeowster
+ - name: Throne GenderMeowster
    url: https://jointhrone.com/u/GenderMeowster
    logo: throne.png
- - name: https://www.streamloots.com/gendermeowster
+ - name: streamloots gendermeowster
    url: https://www.streamloots.com/gendermeowster
    logo: streamloots.png
  - name: https://www.descript.com/?lmref=NaoIoQ
    url:  https://www.descript.com/?lmref=NaoIoQ
    logo: descript.png
- - name: https://calendly.com/gendermeowster
+ - name: descript gendermeowster
    url: https://calendly.com/gendermeowster
    logo: calendly.png
 
 socials:
- - name:   https://www.facebook.com/search/top?q=gendermeowster
+ - name: facebook gendermeowster
    url: https://www.facebook.com/search/top?q=gendermeowster
    logo: facebook.png
- - name: https://www.twitter.com/GenderMeowster
+ - name: Twitter GenderMeowster
    url: https://www.twitter.com/GenderMeowster
    logo: twitter.png
- - name: https://www.instagram.com/gendermeowster
+ - name: instagram gendermeowster
    logo: instagram.png
    url: https://www.instagram.com/gendermeowster
- - name: https://www.tiktok.com/@gendermeowster
+ - name: tiktok @gendermeowster
    logo: tiktok.png
- - name: https://www.facebook.com/GenderMeowster
+   url: https://www.tiktok.com/@gendermeowster
+ - name: Facebook facebook
    logo: facebook.png
- - name: https://mastodon.social/@GenderMeowster
+   url: https://www.facebook.com/GenderMeowster
+ - name: Mastodon @GenderMeowster
    logo: mastadon.png
- - name: https://bsky.app/profile/gendermeowster.bsky.social
+   url: https://mastodon.social/@GenderMeowster
+ - name: bluesky gendermeowster.bsky.social
    logo: bluesky.png
    url: https://bsky.app/profile/gendermeowster.bsky.social
- - name: https://www.threads.net/@gendermeowster
+ - name: threads @gendermeowster
    logo: threads.png
    url: https://www.threads.net/@gendermeowster
- - name: https://www.linkedin.com/company/gendermeowster/
+ - name: linkedin gendermeowster
    logo: linkedin.png
    url: https://www.linkedin.com/company/gendermeowster/
 
 misc:
- - name: https://www.facebook.com/search/top?q=gendermeowster
+ - name: hfacebook.com gendermeowster
    logo: facebook.png
- - name: https://instagram.com/GenderMeowster
+   url: https://www.facebook.com/search/top?q=gendermeowster
+ - name: instagram GenderMeowster
    logo: instagram.png
    url: https://instagram.com/GenderMeowster
 
- - name: https://tiktok.com/@gendermeowster
+ - name: tiktok @gendermeowster
    logo: tiktok.png
    url: https://tiktok.com/@gendermeowster
- - name: https://www.youtube.com/channel/UCVcV_RcLVxKMASqUnqSErzA?sub_confirmation=1
+ - name: youtube Gendermewoster
    logo: youtube.png
    url: https://www.youtube.com/channel/UCVcV_RcLVxKMASqUnqSErzA?sub_confirmation=1
- - name: https://twitch.tv/gendermeowster
+ - name: twitch gendermeowster
    logo: twitch.png
    url: https://twitch.tv/gendermeowster
- - name: https://www.patreon.com/GenderMeowster?fan_landing=true
+ - name: patreon.com GenderMeowster
    logo: patreon.png
+   url: https://www.patreon.com/GenderMeowster?fan_landing=true
  - name: GenderMeowster@gmail.com
    logo: gmail.png
    url: "mailto:GenderMeowster@gmail.com"
- - name: https://podcasts.apple.com/us/podcast/dungeon-meowster-podcast-network/id1533080603
+ - name: apple podcasts Gender Meowster
    logo: apple_podcasts.png
- - name: https://paypal.me/GenderMeowster
+   url: https://podcasts.apple.com/us/podcast/dungeon-meowster-podcast-network/id1533080603
+ - name: paypal.me GenderMeowster
    logo: paypal.png
    url: https://paypal.me/GenderMeowster
- - name: https://x.com/GenderMeowster
+ - name: x GenderMeowster
    logo: x.png
    url: https://x.com/GenderMeowster
 ---
