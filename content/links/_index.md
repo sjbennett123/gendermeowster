@@ -127,7 +127,9 @@ socials:
  - name: linkedin gendermeowster
    logo: linkedin.png
    url: https://www.linkedin.com/company/gendermeowster/
-
+ - name: kofi gendermeowster
+   logo: kofi.png
+   url: https://ko-fi.com/gendermeowster/shop
 misc:
  - name: hfacebook.com gendermeowster
    logo: facebook.png
