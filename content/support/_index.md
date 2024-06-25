@@ -13,7 +13,7 @@ Your support helps us keep the Clowder and all of our efforts going! Please cons
 
 - [A recurring subscription on Patreon to help us cover operating costs so we can keep doing what we do to make the biggest impact.](https://www.patreon.com/GenderMeowster?fan_landing=true) 
 - [A one time tip on ko-fi to give our programs a little boost.](https://ko-fi.com/gendermeowster)
-- [Buying some merch to represent us out in the world.](./merch)
+- [Buying some merch to represent us out in the world.](/merch)
 - [If you'd like to get MeowsterThemself a gift, check out our Throne!](https://throne.com/gendermeowster)
 
 # Mutual Aid
