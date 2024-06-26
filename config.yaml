@@ -39,7 +39,7 @@ Menus:
     - identifier: support
       name: Support
       title: Support
-      url: /support
+      url: /#support
       weight: 3
     - identifier: contact
       name: Contact
