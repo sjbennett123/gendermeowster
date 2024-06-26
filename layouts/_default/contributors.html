@@ -35,8 +35,8 @@
           <article class="page-content  p-2">
           
 
-
-          
+<h2>Staff Bios</h2>
+<p>There is a board with some people on it!</p>
 <h2>Staff Bios</h2>
 <table>
 {{ range sort .Params.staff "name" }}
@@ -45,7 +45,7 @@
     {{ else }}<img src="./gay.png" alt="{{ .name }}" style="width:100px;height:100px;"> 
     {{ end }}</a>
     </th> 
-    <th valign="top"><a href="{{ .website }}"  target="_blank"><b>{{ .name }} {{ if .aka }} aka {{ .aka}} {{ end }}</a></b> ({{ .pronouns }}) {{ .bio }}
+    <th valign="top"><a href="{{ .website }}"  target="_blank" id="{{ .name }}"><b>{{ .name }} {{ if .aka }} aka {{ .aka}} {{ end }}</a></b> ({{ .pronouns }}) {{ .bio }}
     <p></p>
     </th></tr>
 <tr><th><p></p></th><th><p></p></th></tr>
@@ -80,7 +80,9 @@
                 {{ .Site.Params.terms.toc | default "Table Of Contents" }}
               </h5>
               <div class="toc-content">
-                {{.TableOfContents}}
+                {{ range sort .Params.staff "name" }}
+                    <p><a href="#{{ .name }}">{{ .name  }}</p></a>
+                    {{ end }} 
               </div>
           </aside>
           {{ end }}
