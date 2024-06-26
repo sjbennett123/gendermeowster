@@ -34,7 +34,7 @@ Menus:
     - identifier: merch
       name: Merch
       title: Merch
-      url: /merch
+      url: /#merch
       weight: 2
     - identifier: support
       name: Support
