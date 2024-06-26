@@ -93,6 +93,7 @@ staff:
   - name: nicreative
     pronouns: she/he
     bio: loves balancing sheets and helps the Clowder with tracking receipts.
+    picture: niccreative_small.png
   - name: nassattack
     pronouns: she/her
     bio: is a queer trans content creator and ne'er do well.
