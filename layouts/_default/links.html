@@ -35,7 +35,7 @@
           <article class="page-content  p-2">
           
  
-<h2>@GenderMeowster (they/them)</h2>
+<h2 id="GenderMeowster_theythem" >@GenderMeowster (they/them)</h2>
 {{ range sort .Params.gendermeowster "name" }}
 
 <p><a href="{{ .url }}"  target="_blank">
@@ -126,7 +126,7 @@
                 {{ .Site.Params.terms.toc | default "Table Of Contents" }}
               </h5>
               <div class="toc-content">
-                {{.TableOfContents}}
+                <p><a href="#GenderMeowster_theythem"> GenderMeowster_theythem</p></a>
               </div>
           </aside>
           {{ end }}

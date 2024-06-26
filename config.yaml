@@ -50,17 +50,17 @@ Menus:
       name: Contributors
       title: Contributors
       url: /contributors
-      weight: 3
+      weight: 5
     - identifier: links
       name: Links
       title: Links
       url: /links
-      weight: 3
+      weight: 6
     - identifier: schedule
       name: Schedule
       title: Schedule
       url: /schedule
-      weight: 3
+      weight: 7
 params:
   title: "GenderMeowster"
   description: Hi, my name is Gender Meowster

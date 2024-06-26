@@ -131,7 +131,7 @@ socials:
    logo: kofi.png
    url: https://ko-fi.com/gendermeowster/shop
 misc:
- - name: hfacebook.com gendermeowster
+ - name: facebook.com gendermeowster
    logo: facebook.png
    url: https://www.facebook.com/search/top?q=gendermeowster
  - name: instagram GenderMeowster

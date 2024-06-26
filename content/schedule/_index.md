@@ -1,7 +1,7 @@
 ---
 title: Schedule of Shows
 layout: single
-socialShare: true
+socialShare: false
 ---
 
 ## Genderful Podcast
