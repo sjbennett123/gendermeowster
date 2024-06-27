@@ -114,6 +114,7 @@ staff:
   - name: TransCapybara
     website: https://www.twitch.tv/transcapybara
     pronouns: she/her
+    picture: transcapybara_small.png
     bio: is GenderMeowster's wife. She writes software by day and cooks delicious food at night. She'll sometimes come on stream to read from a book or to make funny noises.
   - name: Lexington
     website: https://transgriffin.com
