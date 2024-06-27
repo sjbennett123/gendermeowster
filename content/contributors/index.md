@@ -170,5 +170,4 @@ staff:
     picture: momster_small.png
     bio: is a serial entrepreneur specializing in leadership & organizational efficiency.
     board: true
-
 ---
