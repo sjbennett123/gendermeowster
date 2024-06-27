@@ -139,7 +139,7 @@ staff:
     picture: willow_mist_small.png
     pronouns: she/her
     bio: is an aging trans woman she/her who only found herself a few years ago. She loves board games and LEGO sets, and loves spending time with the community.
-  - name: Sunberry
+  - name: Sun_berry
     website: https://sunberrystudios.carrd.co
     picture: sunberry_small.png
     pronouns: she/they
