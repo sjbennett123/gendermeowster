@@ -37,7 +37,7 @@ staff:
     picture: burnsbothends.jpg
     pronouns: they/she
     bio: is a coordinator, facilitator, artist, and troublemaker trying to help people make the world a little bit better.
-  - name: Auggy / Mrs. Gendered
+  - name: Auggy / Mrs_Gendered
     website: https://www.mrsgendered.com
     picture: auggy_small.png
     pronouns: they/he
@@ -61,23 +61,23 @@ staff:
     website: https://gothicpluto.carrd.co
     picture: gothicpluto_char_small.png
     pronouns: she/star
-    bio: is a cozy, queer, and disabled content creator with a passion for social justice, and an affinity for farming simulators. Star is a member of the disabled content creators collective and aims to create a cozy safer space for marginalized folks on twitch!
+    bio: is a cozy, queer, and disabled content creator with a passion for social justice, and an affinity for farming simulators. Star is a member of the Disabled Content Creators Collective and aims to create a cozy safer-space for marginalized folks on Twitch!
   - name: harlecryptid
     website: https://lnk.bio/harlecryptid
     picture: harlecryptidpeek_harley_maher_small.png
     pronouns: he/they
-    bio: is a 32 yo queer, disabled, polyam parent. Amateur artist, hobbyist photographer, part-time cosplayer, streamer all console, rarely PC .
+    bio: is a queer, disabled, polyam parent. Amateur artist, hobbyist photographer, part-time cosplayer, and streamer (primarily console, rarely PC).
   - name: hexagonelle
     website: https://www.twitch.tv/hexagonelle
     picture: hexagonelle_small.png
     pronouns: rune>they>she
-    bio: is your local demonic physics witch, and nonbinary, transfem, and acespec to boot! Catch them at twitch.tv/hexagonelle
+    bio: is your local demonic physics witch, and nonbinary, trans femme, and acespec to boot! Catch them at [twitch.tv/hexagonelle](twitch.tv/hexagonelle).
   - name: jylietmaddy
     website: https://www.twitch.tv/jylietmaddy
     picture: house_thhpii_jylietmaddy_small.png
     pronouns: plural they
     bio: are weirdos, geeks, and freaks.
-  - name: Juice
+  - name: Juice_Tex
     website: https://linktr.ee/juicetex
     picture: juice_tex_small.png
     pronouns: he/she/any neopronouns
