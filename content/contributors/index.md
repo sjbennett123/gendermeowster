@@ -106,11 +106,11 @@ staff:
     picture: muiramuppet_small.png
     pronouns: she/they
     bio: is an admin that does a bunch of supportive things for Meowster and very occasionally streams their own things.
-  - name: transguyenergy
-    website: https://linktr.ee/transguyenergy
+  - name: domin111ck
+    website: https://linktr.ee/domin111ck
     picture: transguyenergy_small.png
     pronouns: he/him
-    bio: is a bisexual, latine and neurodivergent trans man who enjoys making queer community, content creation, and eating snacks while supporting his friends on [Twitch](https://linktr.ee/transguyenergy).
+    bio: is a bisexual, latine and neurodivergent trans man who enjoys making queer community, content creation, and eating snacks while supporting his friends on [Twitch](https://www.twitch.tv/domin111ck).
   - name: TransCapybara
     website: https://www.twitch.tv/transcapybara
     pronouns: she/her
@@ -121,24 +121,24 @@ staff:
     picture: lexington_small.png
     pronouns: he/they
     bio: is a gender-enigmatic artistic entity, and our Team Lead for Content Editors and Graphic Designers. His main projects are the graphics supply for social media and the final editing of the Genderful Podcast.
-  - name: Tazigo, or Tazi
+  - name: Tazigo
     pronouns: she/her
     picture: tazi_go_small.png
-    bio: is a prolific twitch mod and teacher of tiny humans. Unfortunately they keep growing, and she feels older and shorter every day.
+    bio: is a prolific Twitch mod and teacher of tiny humans. Unfortunately, they keep growing, and Tazi feels older and shorter every day.
   - name: SunflaresSpace
     website: https://www.twitch.tv/SunflaresSpace
     picture: sunflaresspace_small.png
     pronouns: she/her
     bio: is a psychology student, crafter-of-all-trades and ascribes to aggressive positivity towards herself and her friends. Often this leads to tangents about selfcare on her streams, to her friends' amusement.
-  - name: trashcanwolves
-    pronouns: All Pronouns Collectively; Pronouns Vary by Frontier
+  - name: trashcanWolves
+    pronouns: all pronouns collectively; pronouns vary by fronter
     picture: trashcanwolves_small.png
     bio: are some local chaos causing wolves that do various things around the community.
-  - name: WillowMist
+  - name: WillowMist23
     website: https://twitch.com/willowmist23
     picture: willow_mist_small.png
     pronouns: she/her
-    bio: is an aging trans woman she/her who only found herself a few years ago. She loves board games and LEGO sets, and loves spending time with the community.
+    bio: is an aging trans woman who only found herself a few years ago. She loves board games and LEGO sets, and loves spending time with the community.
   - name: Sun_berry
     website: https://sunberrystudios.carrd.co
     picture: sunberry_small.png
