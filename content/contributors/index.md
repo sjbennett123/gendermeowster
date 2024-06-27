@@ -105,7 +105,7 @@ staff:
     website: https://www.twitch.tv/Muiramme
     picture: muiramuppet_small.png
     pronouns: she/they
-    bio: does a bunch of supportive admin things for Meowster and very occasionally streams their own things.
+    bio: is an admin that does a bunch of supportive things for Meowster and very occasionally streams their own things.
   - name: transguyenergy
     website: https://linktr.ee/transguyenergy
     picture: transguyenergy_small.png
@@ -133,7 +133,7 @@ staff:
   - name: trashcanwolves
     pronouns: All Pronouns Collectively; Pronouns Vary by Frontier
     picture: trashcanwolves_small.png
-    bio: Local chaos causing wolves that do various things around the community.
+    bio: are some local chaos causing wolves that do various things around the community.
   - name: WillowMist
     website: https://twitch.com/willowmist23
     picture: willow_mist_small.png
@@ -148,7 +148,7 @@ staff:
     website: https://stamkunst.carrd.co
     picture: stamkunst_small.png
     pronouns: they/them
-    bio: is a nonbinary, cozy arts and crafts streamer, who's not rude, just Dutch! They strongly value kindness, making people laugh, and love using their creative abilities for a good cause.
+    bio: is a nonbinary, cozy arts and crafts streamer. They strongly value kindness, making people laugh, and love using their creative abilities for a good cause. “Stam” is pronounced like “Stahm”, “Kunst” rhymes with “Kirsten Dunst”, so don't worry, it's not rude, just Dutch!
   - name: Rosa_Ylva
     website: https://twitch.tv/rosa_ylva
     picture: rosa_ylva_small.png
@@ -168,7 +168,7 @@ staff:
   - name: Momster
     pronouns: she/her
     picture: momster_small.png
-    bio: is a serial entrepreneur specializing in leadership & organizational efficiency
+    bio: is a serial entrepreneur specializing in leadership & organizational efficiency.
     board: true
 
 ---
