@@ -43,7 +43,7 @@
     {{ else }}<img src="./gay.png" alt="{{ .name }}" style="width:100px;height:100px;"> 
     {{ end }}</a>
     </th> 
-    <th valign="top"><a href="{{ .website }}"  target="_blank" id="{{ .name }}"><b>{{ .name }} {{ if .aka }} aka {{ .aka}} {{ end }}</a></b> ({{ .pronouns }}) {{ .bio }}
+    <th valign="top"><a href="{{ .website }}"  target="_blank" id="{{ .name }}"><b>{{ .name }} {{ if .aka }} aka {{ .aka}} {{ end }}</a></b> ({{ .pronouns }}) {{ .bio | markdownify }}
     <p></p>
     </th></tr>
 <tr><th><p></p></th><th><p></p></th></tr>

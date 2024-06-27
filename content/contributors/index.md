@@ -37,7 +37,7 @@ staff:
     picture: burnsbothends.jpg
     pronouns: they/she
     bio: is a coordinator, facilitator, artist, and troublemaker trying to help people make the world a little bit better.
-  - name: Auggy / Mrs_Gendered
+  - name: Mrs_Gendered
     website: https://www.mrsgendered.com
     picture: auggy_small.png
     pronouns: they/he
@@ -71,7 +71,7 @@ staff:
     website: https://www.twitch.tv/hexagonelle
     picture: hexagonelle_small.png
     pronouns: rune>they>she
-    bio: is your local demonic physics witch, and nonbinary, trans femme, and acespec to boot! Catch them at [twitch.tv/hexagonelle](twitch.tv/hexagonelle).
+    bio: is your local demonic physics witch, and nonbinary, trans femme, and acespec to boot! Catch them at [twitch.tv/hexagonelle](https://twitch.tv/hexagonelle).
   - name: jylietmaddy
     website: https://www.twitch.tv/jylietmaddy
     picture: house_thhpii_jylietmaddy_small.png
@@ -91,7 +91,7 @@ staff:
     website: http://twitch.tv/kamianya
     picture: kami_anya_small.png
     pronouns: they/them
-    bio: is a nonbinary, queer, neurodivergent, disabled, Jewish academic and streamer. Streaming wise, they love indie games, and academically their focus is linguistic anthropology focused on gender.
+    bio: is a nonbinary, queer, neurodivergent, disabled, Jewish academic and streamer. Streaming wise, they love indie games, and academically their doctorate is in linguistic anthropology with a focus on gender.
   - name: nicreative
     pronouns: she/he
     bio: loves balancing sheets and helps the Clowder with tracking receipts.
@@ -107,10 +107,10 @@ staff:
     pronouns: she/they
     bio: does a bunch of supportive admin things for Meowster and very occasionally streams their own things.
   - name: transguyenergy
-    website: linktr.ee/transguyenergy
+    website: https://linktr.ee/transguyenergy
     picture: transguyenergy_small.png
     pronouns: he/him
-    bio: is a bisexual, latine and neurodivergent trans man who enjoys making queer community, content creation, and eating snacks while supporting his friends on Twitch.
+    bio: is a bisexual, latine and neurodivergent trans man who enjoys making queer community, content creation, and eating snacks while supporting his friends on [Twitch](https://linktr.ee/transguyenergy).
   - name: TransCapybara
     website: https://www.twitch.tv/transcapybara
     pronouns: she/her
