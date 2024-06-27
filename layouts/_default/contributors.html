@@ -36,8 +36,6 @@
           
 
 <h2>Staff Bios</h2>
-<p>There is a board with some people on it!</p>
-<h2>Staff Bios</h2>
 <table>
 {{ range sort .Params.staff "name" }}
   <tr> <th width="100" valign="top"><a href="{{ .website }}"  target="_blank">
@@ -51,8 +49,12 @@
 <tr><th><p></p></th><th><p></p></th></tr>
 {{ end }} 
        </table>
-
-          
+<h2>Board of Directors</h2>
+<ul>
+{{ range where .Params.staff "board" true }}
+<li><a href="#{{ .name }}">{{ .name }}</a></li>
+{{ end }} 
+</ul>
           {{ .Content | emojify }}
 
           

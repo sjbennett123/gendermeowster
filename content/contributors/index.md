@@ -19,6 +19,7 @@ team_list:
   - Twitch Mods
   - Youtube Mods
   - Web Developers
+
 staff:
   - name: GenderMeowster 
     website: https://linktr.ee/GenderMeowster
@@ -39,7 +40,7 @@ staff:
   - name: Auggy / Mrs. Gendered
     website: https://www.mrsgendered.com
     picture: auggy_small.png
-    pronouns: hey/he
+    pronouns: they/he
     bio: is a disabled queer freelance illustrator based in TX. They seek to create safe places for LGBTQ+ folks to enjoy art and experience healthy community.
   - name: CyBearPunkboy
     website: https://www.twitch.tv/cybearpunkboy
@@ -152,6 +153,7 @@ staff:
     picture: rosa_ylva_small.png
     pronouns: she/her
     bio: is a LGBTQIA+ activist from Australia. She is involved in many different LGBTQIA+ projects, including being the owner of the Aegis Security System.
+    board: true
   - name: Ray_of_Swords
     website: https://rayofswords.carrd.co
     picture: ray_of_swords_small.png
@@ -166,5 +168,6 @@ staff:
     pronouns: she/her
     picture: momster_small.png
     bio: is a serial entrepreneur specializing in leadership & organizational efficiency
+    board: true
 
 ---
