@@ -93,12 +93,12 @@ staff:
     pronouns: they/them
     bio: is a nonbinary, queer, neurodivergent, disabled, Jewish academic and streamer. Streaming wise, they love indie games, and academically their doctorate is in linguistic anthropology with a focus on gender.
   - name: nicreative
-    pronouns: she/he
+    pronouns: she/her
     bio: loves balancing sheets and helps the Clowder with tracking receipts.
     picture: niccreative_small.png
   - name: nassattack
     pronouns: she/her
-    bio: is a queer trans content creator and ne'er do well.
+    bio: is a queer trans content creator on YouTube and ne'er do well.
     website: https://youtube.com/@nassattack?si=GaysoNt2XJLZ7VwF
     picture: miranda_nassattack_small.png
   - name: Muiramme
@@ -115,7 +115,7 @@ staff:
     website: https://www.twitch.tv/transcapybara
     pronouns: she/her
     picture: transcapybara_small.png
-    bio: is GenderMeowster's wife. She writes software by day and cooks delicious food at night. She'll sometimes come on stream to read from a book or to make funny noises.
+    bio: is Meowster's wife. She writes software by day and cooks delicious food at night. She'll sometimes come on stream to read from a book or to make funny noises.
   - name: Lexington
     website: https://transgriffin.com
     picture: lexington_small.png
@@ -164,7 +164,7 @@ staff:
     website: https://www.scottjbennett.com
     pronouns: he/him
     picture: scott_bennett_small.png
-    bio: is a jack of all trades. He loves Linux, Larp and SHMUPS. Ask him to help you with your project he will probably say yes!
+    bio: is a jack of all trades. He loves Linux, Larp and SHMUPS. Ask him to help you with your project, he will probably say yes!
   - name: Momster
     pronouns: she/her
     picture: momster_small.png
