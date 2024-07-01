@@ -26,7 +26,7 @@ staff:
     picture: gendermeowster_small.png
     pronouns: they/them
     aka: MeowsterThemself
-    bio: is a white, nonbinary, trans masc, disabled, AuDHD content creator and the instigator of GenderMeowster community, Genderful Podcast, and Gender Federation stream team.
+    bio: GenderMeowster (They/them) is a transmasc nonbinary, ADHD, autistic, white, disabled, Twitch affiliate who believes in **Trans Joy for Trans Liberation**! They are offering comfy, cozy, moderated, trans-forward, queer spaces & content, and created both the [Genderful Podcast](https://www.genderfulpodcast.com) and the Gender Federation stream team. They are also a member of the [Disabled Content Creators Collective](https://www.twitch.tv/team/disabledcccollective) stream team on Twitch.
   - name: elle
     website: https://twitter.com/vantiss
     pronouns: she/her
