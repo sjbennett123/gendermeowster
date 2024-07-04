@@ -1,9 +1,14 @@
 # https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
+/linktree              https://linktr.ee/GenderMeowster
 /todo                  https://boards.clowderlabs.com/boards/1240640241413392010
 /planka                https://boards.clowderlabs.com/boards/1240640241413392010
 /trello                https://boards.clowderlabs.com/boards/1240640241413392010
+/trellotraining        https://www.youtube.com/watch?v=RNX9GX7WI4E
+
 /twitch                https://twitch.tv/gendermeowster
 /discord               http://discord.gg/meowster
+/discordtraining       https://www.youtube.com/watch?v=KGsrr8Zwd1w
+
 /youtube               https://www.youtube.com/channel/UCVcV_RcLVxKMASqUnqSErzA?sub_confirmation=1
 /email                 https://mailchi.mp/c0dfe546a4fe/e-newsletter
 /patreon               https://www.patreon.com/GenderMeowster?fan_landing=true
@@ -15,5 +20,7 @@
 /genderfederation      https://linktr.ee/genderfederation
 /genderfed             https://linktr.ee/genderfederation
 /disabledcccollective  https://www.twitch.tv/team/disabledcccollective
+/caption               web-captioner-settings-GenderMeowster.json
+
 /contributorinterest   https://docs.google.com/forms/d/e/1FAIpQLSdbmklQzAER8SVfw_fw-PHFM319yUhnWEUHK0-DHu2J85Vfew/viewform
 /interest              https://docs.google.com/forms/d/e/1FAIpQLSdbmklQzAER8SVfw_fw-PHFM319yUhnWEUHK0-DHu2J85Vfew/viewform
