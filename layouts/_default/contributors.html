@@ -38,7 +38,8 @@
 <h2>Staff Bios</h2>
 <table>
 {{ range sort .Params.staff "name" }}
-  <tr> <th width="100" valign="top"><a href="{{ .website }}" target="_blank">
+  <tr> <th width="20%" valign="top"><a href="{{ .website }}" target="_blank">
+  
     {{ if .picture }}<img src="./{{ .picture }}" alt="{{ .name }}" style="width:100px;height:100px;">
     {{ else }}<img src="./Gilbert_Baker_Pride_Progress.png" alt="{{ .name }}" style="width:100px;height:100px;"> 
     {{ end }}</a>
@@ -59,8 +60,8 @@
 
           
           
-          
-           
+<p><a href="/interest">interest</a></p>
+
           
            
           
