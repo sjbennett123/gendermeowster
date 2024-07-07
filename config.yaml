@@ -163,11 +163,11 @@ params:
 
   footer:
     socialNetworks:
-      github: https://github.com/sjbennett123
-      youtube: https://www.youtube.com/channel/UCVcV_RcLVxKMASqUnqSErzA?sub_confirmation=1
-      tiktok: https://tiktok.com/@gendermeowster
-      instagram: https://instagram.com/GenderMeowster
-      facebook: https://www.facebook.com/search/top?q=gendermeowster
+      bluesky: https://bsky.app/profile/gendermeowster.bsky.social
+      twitter: https://twitter.com/GenderfulPod
+      discord: http://discord.gg/meowster
+      instagram: https://www.instagram.com/gendermeowster
+      patreon: https://www.patreon.com/GenderMeowster?fan_landing=true
 
 
   # List pages like blogs and posts
