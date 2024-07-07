@@ -82,9 +82,11 @@
                 {{ .Site.Params.terms.toc | default "Table Of Contents" }}
               </h5>
               <div class="toc-content">
+                   <ul>
                 {{ range sort .Params.staff "name" }}
-                    <p><a href="#{{ .name }}">{{ .name  }}</p></a>
+                    <li><a href="#{{ .name }}">{{ .name  }}</li></a>
                     {{ end }} 
+                    </ul>
               </div>
           </aside>
           {{ end }}
