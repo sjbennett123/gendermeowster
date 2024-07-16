@@ -12,6 +12,7 @@
     --text-secondary-color: var(--text-secondary-color-dark) !important;
     --primary-color: var(--primary-color-dark);
     --secondary-color: var(--secondary-color-dark);
+    --background-image: url("/links/bluesky.png")!important;
 }
 
 .text-secondary {

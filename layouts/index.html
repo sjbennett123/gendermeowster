@@ -31,6 +31,7 @@
 
 {{ define "main" }}
 
+{{ .Content | emojify }}
 {{- partial "sections/hero/index.html" . -}}
 
 {{- partial "sections/about.html" . -}}
