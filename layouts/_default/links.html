@@ -11,103 +11,62 @@
 {{ end }}
 
 {{ define "main" }}
+{{- $links := .Params.links -}}
+{{- $categories := (slice ) -}}
+{{- if .Params.categories -}}
+    {{- $categories := .Params.categories -}}
+{{ end }}
+
+{{ range .Params.links  }}
+      {{ if not (in $categories .category) }}
+      {{- $categories = append $categories (slice .category ) | uniq -}}
+      {{ end }}
+{{ end }}
+{{ $categories =  collections.Reverse $categories  }} 
+{{ $category := "" }}
+
 <section id="single">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-sm-12 col-md-12 col-lg-9">
         <div class="pr-lg-4">
           <div class="title mb-5">
-            <h1 class="text-center mb-4">{{ .Title }}</h1>
-            <div class="text-center">
+            <h1 class="text-center mb-4">Links</h1>
 
-              {{ if or (.Site.Params.singlePages.readTime.enable | default true) (.Params.enableReadingTime) }}
-              <span id="readingTime">
-                {{ .Site.Params.singlePages.readTime.content | default "min read" }}
-              </span>
-              {{ end }}
-            </div>
           </div>
-          {{ if .Params.image }}
-          <div class="featured-image">
-            <img class="img-fluid" src="{{ .Params.image }}" alt="{{ .Title }}">
-          </div>
-          {{ end }}
-          <article class="page-content  p-2">
-          
- 
-<h2 id="GenderMeowster_theythem" >@GenderMeowster (they/them)</h2>
-{{ range sort .Params.gendermeowster "name" }}
+<article>
+{{ $row_color := "5BCEFA"}}
 
-<p><a href="{{ .url }}"  target="_blank">
-    {{ if .logo }}<img src="./{{ .logo }}" alt="{{ .name }}" style="width:50px;height:50px;">
-    {{ else }}<img src="./gay.png" alt="{{ .name }}" style="width:50px;height:50px;"> 
-    {{ end }}     {{ .name }}</a></p>
-{{ end }} 
-
-<h2 id="community">Community</h2>
-{{ range sort .Params.community "name" }}
-
-<p><a href="{{ .url }}"  target="_blank">
-    {{ if .logo }}<img src="./{{ .logo }}" alt="{{ .name }}" style="width:50px;height:50px;">
-    {{ else }}<img src="./gay.png" alt="{{ .name }}" style="width:50px;height:50px;"> 
-    {{ end }}     {{ .name }}</a></p>
-{{ end }} 
+{{ range $categories }} 
 
 
-<h2 id="genderful_podcast">Genderful Podcast</h2>
-{{ range sort .Params.genderful_podcast "name" }}
+    <h2 id="{{ . }}">{{ . }}</h2>
+    
+    {{- $category := . -}}
 
-<p><a href="{{ .url }}"  target="_blank">
-    {{ if .logo }}<img src="./{{ .logo }}" alt="{{ .name }}" style="width:50px;height:50px;">
-    {{ else }}<img src="./gay.png" alt="{{ .name }}" style="width:50px;height:50px;"> 
-    {{ end }}     {{ .name }}</a></p>
-{{ end }} 
+        <table style="width:100%;">
 
-<h2 id="support">Support</h2>
-{{ range sort .Params.support "name" }}
+{{- range (where $links ".category" "==" $category) -}}
+{{ if eq $row_color "5BCEFA" }}{{ $row_color = "F5A9B8"}}
+{{ else if eq $row_color "F5A9B8" }}{{ $row_color = "5BCEFA"}}{{ end }}
+  <tr style="background-color: #{{- $row_color -}}; padding-bottom: 50px; width=100%; border: 1px solid black;">
+    <th width="20%" valign="top"><a href="{{ .website }}" target="_blank">
 
-<p><a href="{{ .url }}"  target="_blank">
-    {{ if .logo }}<img src="./{{ .logo }}" alt="{{ .name }}" style="width:50px;height:50px;">
-    {{ else }}<img src="./gay.png" alt="{{ .name }}" style="width:50px;height:50px;"> 
-    {{ end }}     {{ .name }}</a></p>
-{{ end }} 
+            {{ if .logo }}
+            <img src="./{{- .logo -}}" alt="{{- .name -}}" style="max-width:50px;height:50px;">
+            {{ else }}<img src="./gay.png" alt="{{- .name -}}" style="width:50px;height:50px;"> 
+            {{ end }}
 
-<h2 id="socials" >Socials</h2>
-{{ range sort .Params.socials "name" }}
-
-<p><a href="{{ .url }}"  target="_blank">
-    {{ if .logo }}<img src="./{{ .logo }}" alt="{{ .name }}" style="width:50px;height:50px;">
-    {{ else }}<img src="./gay.png" alt="{{ .name }}" style="width:50px;height:50px;"> 
-    {{ end }}     {{ .name }}</a></p>
-{{ end }} 
-
-<h2 id="affiliated_entities">Affiliated Entities</h2>
-{{ range sort .Params.affiliated_entities "name" }}
-
-<p><a href="{{ .url }}"  target="_blank">
-    {{ if .logo }}<img src="./{{ .logo }}" alt="{{ .name }}" style="width:50px;height:50px;">
-    {{ else }}<img src="./gay.png" alt="{{ .name }}" style="width:50px;height:50px;"> 
-    {{ end }}     {{ .name }}</a></p>
+    </th> 
+    <th valign="top" style="width=100%"><a href="{{- .url -}}" target="_blank" id="{{- .name -}}" ><b>{{- .name -}} </a></b> 
+    </th></tr>
+{{ end }}
+       </table>
+      
+      
 {{ end }}
 
-<h2 id="misc">Misc</h2>
-{{ range sort .Params.misc "name" }}
-
-<p><a href="{{ .url }}"  target="_blank">
-    {{ if .logo }}<img src="./{{ .logo }}" alt="{{ .name }}" style="width:50px;height:50px;">
-    {{ else }}<img src="./gay.png" alt="{{ .name }}" style="width:50px;height:50px;"> 
-    {{ end }}     {{ .name }}</a></p>
-{{ end }} 
-
-          {{ .Content | markdownify }}
-
-          
-          
-          
-           
-          
-           
-          
+</article>
           
           
           
@@ -118,6 +77,7 @@
           </article>
         </div>
       </div>
+
       <div class="col-sm-12 col-md-12 col-lg-3">
         <div class="sticky-sidebar">
           {{ if .Params.toc | default true}}
@@ -126,14 +86,11 @@
                 {{ .Site.Params.terms.toc | default "Table Of Contents" }}
               </h5>
               <div class="toc-content">
-                <p><a href="#GenderMeowster_theythem"> GenderMeowster_theythem</p></a>
-                <p><a href="#community"> Community</p></a>
-                <p><a href="#genderful_podcast"> Genderful Podcast</p></a>
-                <p><a href="#support">Support</p></a>
-                <p><a href="#socials">Socials</p></a>
-                <p><a href="#affiliated_entities">Affiliated Entities</p></a>
-                <p><a href="#misc">Misc</p></a>
-
+                   <ul>
+                {{- range $categories -}}
+                <li ><a href="#{{ . }}">{{ . }}</li></a>
+                    {{- end -}} 
+                    </ul>
               </div>
           </aside>
           {{ end }}
