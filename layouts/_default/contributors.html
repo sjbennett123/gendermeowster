@@ -1,3 +1,4 @@
+
 {{ define "head" }}
 <meta name="description" content="{{ .Params.description }}">
 <link rel="stylesheet" href="{{.Site.Params.staticPath}}/css/single.css">
@@ -11,6 +12,7 @@
 {{ end }}
 
 {{ define "main" }}
+
 <section id="single">
   <div class="container">
     <div class="row justify-content-center">
@@ -36,18 +38,24 @@
           
 
 <h2>Staff Bios</h2>
+{{ $row_color := "5BCEFA"}}
+
 <table>
 {{ range sort .Params.staff "name" }}
-  <tr> <th width="20%" valign="top"><a href="{{ .website }}" target="_blank">
-  
-    {{ if .picture }}<img src="./{{ .picture }}" alt="{{ .name }}" style="width:100px;height:100px;">
-    {{ else }}<img src="./Gilbert_Baker_Pride_Progress.png" alt="{{ .name }}" style="width:100px;height:100px;"> 
+{{ if eq $row_color "5BCEFA" }}{{ $row_color = "F5A9B8"}}
+{{ else if eq $row_color "F5A9B8" }}{{ $row_color = "5BCEFA"}}{{ end }}
+
+
+  <tr style="background-color: #{{- $row_color -}}; padding-bottom: 50px;"> 
+    <th width="20%" valign="top"><a href="{{ .website }}" target="_blank">
+
+    {{ if .picture }}<img src="./{{ .picture }}" alt="{{ .name }}" style="height: auto;width: auto; max-width: 100px; max-height: 100px;padding-right: 10%;padding-left: 10%;">
+    {{ else }}<img src="./Gilbert_Baker_Pride_Progress.png" alt="{{ .name }}" style="width:100px;height:100px;  padding-right: 30px;"> 
     {{ end }}</a>
     </th> 
     <th valign="top"><a href="{{ .website }}" target="_blank" id="{{ .name }}"><b>{{ .name }} {{ if .aka }} aka {{ .aka}} {{ end }}</a></b> ({{ .pronouns }}) {{ .bio | markdownify }}
     <p></p>
     </th></tr>
-<tr><th><p></p></th><th><p></p></th></tr>
 {{ end }} 
        </table>
 <h2>Board of Directors</h2>
@@ -63,7 +71,7 @@
 <p style="text-align:center"> <a href="/interest" class="btn"><button type="button"  class="btn btn-primary btn-lg btn-block"><img src="/pride_slime.png" alt="pride_slime" style="width:100px;height:100px;">Join the Pride Slimes</button></a></p>
 
           
-           
+          
           
           
           
