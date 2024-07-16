@@ -25,7 +25,7 @@ It’s very important to us that you all take care of yourselves. We know that e
 - Remind your fellow participants to take care of themselves as well.
 - Be kind to yourself - take breaks as needed!
 
-## before the event steps
+## Before the event steps
 
 General reminder - folks might want to physically prepare for this weekend by:
 
@@ -116,7 +116,7 @@ Other **comments**? Questions? Concerns? Offers? Thank you for participating!
 ## Giveaways
 
 I’ve gotten this question a couple of times - streamers are absolutely allowed to enter event giveaways while their stream is live. We are all collectively working on keeping our viewership up and raising money, so it’s only fair that we all get chances at the prizes! Please use discretion with entering milestone giveaways you personally set for your own channel (example: don’t enter a giveaway just so you don’t have to ship an item later you planned as a milestone, for example - but you can still enter for your friends).  Entering giveaways to win prizes that you’ll regift to friends is also allowed - this drives chat engagement and also may be a reason to reach out to someone to invite them to join the stream. Maybe a game you know a friend who isn’t on the train would enjoy is being raffled, you go DM them, they join for the prize, but stay for the event because of the vibes. It’s a valid and genuinely fun way to build up viewership - get organized! Be a hooligan! **This is trans joy for trans liberation!!!**
-   
+
    
 
  tip: Keep a set of tabs open so that you can switch between them easily.
@@ -479,7 +479,7 @@ Donation Goals Posts
 We are currently at (current amount)  |
 Next giveaway is (overall incentive) in $(amount needed)!  |
 [If we get to (amount) we unlock (milestone) for (recipient)!]
- 
+
 Example from #MiktasticMutualAid:
 We are currently at 48% (approx $1,503)  |
 Next giveaway is Starcrossed at $1750!  |
