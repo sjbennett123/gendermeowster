@@ -1,6 +1,6 @@
 # https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
 /linktree              https://linktr.ee/GenderMeowster
-
+/drive                 https://drive.google.com/drive/folders/1oFDWlEDn7UJBjE0m5aLeACIRGr5DFrgM
 
 /todo                  https://boards.clowderlabs.com
 /trello                https://boards.clowderlabs.com/
@@ -39,3 +39,8 @@
 
 /contributorinterest   https://docs.google.com/forms/d/e/1FAIpQLSdbmklQzAER8SVfw_fw-PHFM319yUhnWEUHK0-DHu2J85Vfew/viewform
 /interest              https://docs.google.com/forms/d/e/1FAIpQLSdbmklQzAER8SVfw_fw-PHFM319yUhnWEUHK0-DHu2J85Vfew/viewform
+
+# Previous years' TDOR streams, for reference:
+/tdor2022              https://www.youtube.com/watch?v=1V87bOvFkvE 
+/tdor2021              https://www.youtube.com/watch?v=F0ISVNMotSM
+/tdor2020              https://youtu.be/7kNZR_Drvc8
