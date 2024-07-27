@@ -35,7 +35,7 @@
 
           </div>
 <article>
-{{ $row_color := "5BCEFA"}}
+{{ $row_color := "FFF430"}}
 
 {{ range $categories }} 
 
@@ -44,25 +44,30 @@
     
     {{- $category := . -}}
 
-        <table style="width:100%;">
 
 {{- range (where $links ".category" "==" $category) -}}
-{{ if eq $row_color "5BCEFA" }}{{ $row_color = "F5A9B8"}}
-{{ else if eq $row_color "F5A9B8" }}{{ $row_color = "5BCEFA"}}{{ end }}
-  <tr style="background-color: #{{- $row_color -}}; padding-bottom: 50px; width=100%; border: 1px solid black;">
-    <th width="20%" valign="top"><a href="{{ .website }}" target="_blank">
+{{ if eq $row_color "FFF430" }}{{ $row_color = "9C59D1"}}
+{{ else if eq $row_color "9C59D1" }}{{ $row_color = "FFF430"}}{{ end }}
+
+<div style="border-color: #{{- $row_color -}};  width=100%;border-style: solid; border-width: 5px;  border-radius: 10px; ">
+<table style="width:100%;padding-top: 50px;  padding-bottom: 5px;">
+
+  <tr>
+    <th width="30%" valign="top"style="padding-left: 5%;"><a href="{{ .website }}" target="_blank" >
 
             {{ if .logo }}
-            <img src="./{{- .logo -}}" alt="{{- .name -}}" style="max-width:50px;height:50px;">
-            {{ else }}<img src="./gay.png" alt="{{- .name -}}" style="width:50px;height:50px;"> 
+            <img src="./{{- .logo -}}" alt="{{- .name -}}" style="max-width:40px;height:40px;">
+            {{ else }}<img src="./gay.png" alt="{{- .name -}}" style="width:40px;height:40px;"> 
             {{ end }}
 
     </th> 
     <th valign="top" style="width=100%"><a href="{{- .url -}}" target="_blank" id="{{- .name -}}" ><b>{{- .name -}} </a></b> 
     </th></tr>
-{{ end }}
-       </table>
-      
+</table>
+</div>
+       
+ {{ end }}
+     
       
 {{ end }}
 
