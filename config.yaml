@@ -36,11 +36,6 @@ Menus:
       title: Projects
       url: /#projects
       weight: 1.5
-    - identifier: merch
-      name: Merch
-      title: Merch
-      url: /#merch
-      weight: 2
     - identifier: support
       name: Support
       title: Support
