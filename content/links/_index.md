@@ -11,7 +11,7 @@ links:
  - name: Discord
    logo: discord.png
    url: http://discord.gg/meowster
-   category: Join the Community 
+   category: Join the Community F
  - name: E-newsletter
    logo: mailchimp.png
    url: https://mailchi.mp/c0dfe546a4fe/e-newsletter
@@ -68,7 +68,7 @@ links:
    logo: tiktok.png
    url: "https://www.tiktok.com/@gendermeowster"
    category: GenderMeowster Socials
- - name: "Facebook"
+ - name: Facebook
    logo: facebook.png
    url: https://www.facebook.com/GenderMeowster
    category: GenderMeowster Socials
@@ -84,23 +84,23 @@ links:
    logo: linkedin.png
    url: https://www.linkedin.com/company/gendermeowster/
    category: GenderMeowster Socials
- - name: Ko-Fi_(Merch_and_Tips)
+ - name: Ko-Fi (Merch and Tips)
    url: https://ko-fi.com/gendermeowster/shop
    logo: kofi.png
    category: Support the Clowder
- - name: Patreon_(Recurring_Subscriptions)
+ - name: Patreon (Recurring Subscriptions)
    url: https://www.patreon.com/GenderMeowster?fan_landing=true
    logo: patreon.png
    category: Support the Clowder
- - name: Pally.gg_(Contribute_to_Mutual_Aid)
+ - name: Pally.gg (Contribute to Mutual Aid)
    url: https://pally.gg/tip/gendermeowster
    logo: pallygg.png
    category: Support the Clowder
- - name: Throne_(Gifts)
+ - name: Throne (Gifts)
    url: https://jointhrone.com/u/GenderMeowster
    logo: throne.png
    category: Support the Clowder
- - name: Streamloots_(Card_Packs)
+ - name: Streamloots (Card Packs)
    url: https://www.streamloots.com/gendermeowster
    logo: streamloots.png
    category: Support the Clowder
@@ -112,7 +112,7 @@ links:
    url: https://genderfederation.org
    logo: gender_federaton.png
    category: Affiliated Entities
- - name: Disabled_Content_Creators_Collective
+ - name: Disabled Content Creators Collective
    logo: disabled_content_creators_collective.png
    url: https://www.twitch.tv/team/disabledcccollective
    category: Affiliated Entities
@@ -140,7 +140,7 @@ links:
    url:  https://www.descript.com/?lmref=NaoIoQ
    logo: descript.png
    category: Affiliated Entities
- - name: Calendly (Schedule_Meetings)
+ - name: Calendly (Schedule Meetings)
    url: https://calendly.com/gendermeowster
    logo: calendly.png
    category: Affiliated Entities
