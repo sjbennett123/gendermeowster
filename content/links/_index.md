@@ -87,27 +87,27 @@ links:
  - name: Ko-Fi_(Merch_and_Tips)
    url: https://ko-fi.com/gendermeowster/shop
    logo: kofi.png
-   category: Support_the_Clowder
+   category: Support the Clowder
  - name: Patreon_(Recurring_Subscriptions)
    url: https://www.patreon.com/GenderMeowster?fan_landing=true
    logo: patreon.png
-   category: Support_the_Clowder
+   category: Support the Clowder
  - name: Pally.gg_(Contribute_to_Mutual_Aid)
    url: https://pally.gg/tip/gendermeowster
    logo: pallygg.png
-   category: Support_the_Clowder
+   category: Support the Clowder
  - name: Throne_(Gifts)
    url: https://jointhrone.com/u/GenderMeowster
    logo: throne.png
-   category: Support_the_Clowder
+   category: Support the Clowder
  - name: Streamloots_(Card_Packs)
    url: https://www.streamloots.com/gendermeowster
    logo: streamloots.png
-   category: Support_the_Clowder
+   category: Support the Clowder
  - name: PayPal
    logo: paypal.png
    url: https://paypal.me/GenderMeowster
-   category: Support_the_Clowder
+   category: Support the Clowder
  - name: Gender Federation
    url: https://genderfederation.org
    logo: gender_federaton.png
