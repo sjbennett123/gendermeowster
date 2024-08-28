@@ -4,10 +4,6 @@ layout: links
 socialShare: false
 
 links:
- - name: Donate Towards a Wheelchair Lift for Meowster
-   logo: throne.png
-   url: https://throne.com/gendermeowster/item/afa137f0-3f6b-45b9-97cb-0c6933155703
-   category: Donate Towards a Wheelchair Lift for Meowster
  - name: Twitch
    logo: twitch.png
    url: https://twitch.tv/gendermeowster
