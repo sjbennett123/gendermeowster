@@ -11,7 +11,7 @@ links:
  - name: Discord
    logo: discord.png
    url: http://discord.gg/meowster
-   category: Join the Community F
+   category: Join the Community
  - name: E-newsletter
    logo: mailchimp.png
    url: https://mailchi.mp/c0dfe546a4fe/e-newsletter
