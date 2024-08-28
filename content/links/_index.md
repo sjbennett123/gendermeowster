@@ -113,7 +113,7 @@ links:
    url: https://paypal.me/GenderMeowster
    category: Support_the_Clowder
  - name: Gender Federation
-   url: https://linktr.ee/genderfederation
+   url: https://genderfederation.org
    logo: gender_federaton.png
    category: Affiliated Entities
  - name: Disabled_Content_Creators_Collective
