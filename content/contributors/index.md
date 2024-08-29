@@ -56,11 +56,13 @@ staff:
     website: https://thewitchystuff.blogspot.com/p/links.html
     pronouns: they/she
     picture: cara_mia_small.png
+    hidden: true
     bio: has been a content creator since 2008, and online community organizer and informal spiritual educator since 2009. They didn't realize any of those things until later, and got more formal with them over the years. Also known as cutewitch772 most places on the internet, they are a queer, vegan, anti-racist, intersectional feminist, neurodiverse, Pagan Witch, and likely to speak about any of those topics. Cara holds a degree in Theatre Arts, and having worked and played both onstage and behind the scenes, finds those lessons being present everywhere she goes.
   - name: gothicpluto
     website: https://gothicpluto.carrd.co
     picture: gothicpluto_char_small.png
     pronouns: she/star
+    hidden: true
     bio: is a cozy, queer, and disabled content creator with a passion for social justice, and an affinity for farming simulators. Star is a member of the Disabled Content Creators Collective and aims to create a cozy safer-space for marginalized folks on Twitch!
   - name: harlecryptid
     website: https://lnk.bio/harlecryptid
@@ -110,6 +112,7 @@ staff:
     website: https://linktr.ee/domin111ck
     picture: transguyenergy_small.png
     pronouns: he/him
+    hidden: true
     bio: is a bisexual, latine and neurodivergent trans man who enjoys making queer community, content creation, and eating snacks while supporting his friends on [Twitch](https://www.twitch.tv/domin111ck).
   - name: TransCapybara
     website: https://www.twitch.tv/transcapybara
@@ -124,6 +127,7 @@ staff:
   - name: Tazigo
     pronouns: she/her
     picture: tazi_go_small.png
+    hidden: true
     bio: is a prolific Twitch mod and teacher of tiny humans. Unfortunately, they keep growing, and Tazi feels older and shorter every day.
   - name: SunflaresSpace
     website: https://www.twitch.tv/SunflaresSpace
