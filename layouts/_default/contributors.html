@@ -42,13 +42,14 @@
 
 <table>
 {{ range sort .Params.staff "name" }}
+{{ if .hidden}}<h1> {{ .name }} WILL BE REMOVED</h1> {{ end }}
 {{ if eq $row_color "FFF430" }}{{ $row_color = "9C59D1"}}
 {{ else if eq $row_color "9C59D1" }}{{ $row_color = "FFF430"}}{{ end }}
 
 
   <tr style="border-color: #{{- $row_color -}};  width=100%;border-style: solid; border-width: 5px;  border-radius: 10px; padding-bottom: 50px;"> 
     <th width="20%" valign="top"><a href="{{ .website }}" target="_blank">
-
+    
     {{ if .picture }}<img src="./{{ .picture }}" alt="{{ .name }}" style="height: auto;width: auto; max-width: 100px; max-height: 100px;padding-right: 10%;padding-left: 10%;">
     {{ else }}<img src="./Gilbert_Baker_Pride_Progress.png" alt="{{ .name }}" style="width:100px;height:100px;  padding-right: 30px;"> 
     {{ end }}</a>
