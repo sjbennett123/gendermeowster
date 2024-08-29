@@ -130,7 +130,7 @@ params:
 
   # Hero
   hero:
-    enable: true
+    enable: false
 
 
     intro: "GenderMeowster is a transmasc nonbinary AuDHD yt disabled Twitch affiliate. They are offering comfy cozy moderated queer spaces & content @GenderfulPod creator and DisabledCCC stream team."
