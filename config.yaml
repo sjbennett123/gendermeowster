@@ -152,7 +152,7 @@ params:
 
   #Contact
   contact:
-    enable: true
+    enable: false
     # title: "Custom Name"
     content: Don’t hesitate to reach out at any time. We look forward to hearing from you.
 
