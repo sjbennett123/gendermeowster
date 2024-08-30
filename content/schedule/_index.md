@@ -32,7 +32,7 @@ intersectional social justice self-education stream
 
 1st Thursday of the month at <span id=in_the_meme_time_time> </span>
 
-reacting to memes from Meowster’s Clowder Discord server’s starboard
+reacting to memes from Meowster's Clowder Discord server's starboard
 
 ### Contributor Appreciation Day
 
@@ -58,7 +58,7 @@ Meowster's friends takeover the channel for a week, providing guest content whil
 
 #### Mutual Aid Streams
 
-often in collaboration with Gender Federation or Disabled Content Creators Collective)
+Often in collaboration with Gender Federation or Disabled Content Creators Collective.
 
 #### Memorials
 
