@@ -1,0 +1,73 @@
+  <head>
+
+
+
+  </head>
+
+<body>
+<h2>genderful_podcast_time: <div id=genderful_podcast_time> </div></h2>
+<h2>shenanigans_time: <div id=shenanigans_time> </div></h2>
+<h2>in_the_meme_time_time: <div id=in_the_meme_time_time> </div></h2>
+<h2>contributor_appreciation_day: <div id=contributor_appreciation_day> </div></h2>
+<h2>doing_the_work_time: <div id=doing_the_work_time> </div></h2>
+<h2>tarot_4_trans: <div id=tarot_4_trans> </div></h2>
+
+<script src="/luxon.min.js"></script>
+<script>
+
+// Genderful Podcast
+var genderful_podcast_time = luxon.DateTime.fromISO("2017-05-15T15:30:00", { zone: "America/Los_Angeles" });
+var genderful_podcast_time = genderful_podcast_time.toLocal();
+var genderful_podcast_time = genderful_podcast_time.toLocaleString(luxon.DateTime.TIME_SIMPLE)
+console.log("genderful_podcast_time");
+console.log(genderful_podcast_time);
+document.getElementById("genderful_podcast_time").innerHTML = genderful_podcast_time;
+
+// Shenanigans
+var shenanigans_time = luxon.DateTime.fromISO("2017-05-15T11:00:00", { zone: "America/Los_Angeles" });
+var shenanigans_time = shenanigans_time.toLocal();
+var shenanigans_time = shenanigans_time.toLocaleString(luxon.DateTime.TIME_SIMPLE)
+console.log("shenanigans_time");
+console.log(shenanigans_time);
+document.getElementById("shenanigans_time").innerHTML = shenanigans_time;
+
+
+// Doing the Work
+var doing_the_work_time = luxon.DateTime.fromISO("2017-05-15T11:00:00", { zone: "America/Los_Angeles" });
+var doing_the_work_time = doing_the_work_time.toLocal();
+var doing_the_work_time = doing_the_work_time.toLocaleString(luxon.DateTime.TIME_SIMPLE)
+console.log("doing_the_work_time");
+console.log(doing_the_work_time);
+document.getElementById("doing_the_work_time").innerHTML = doing_the_work_time;
+
+
+
+// In The Meme Time
+var in_the_meme_time_time = luxon.DateTime.fromISO("2017-05-15T11:00:00", { zone: "America/Los_Angeles" });
+var in_the_meme_time_time = in_the_meme_time_time.toLocal();
+var in_the_meme_time_time = in_the_meme_time_time.toLocaleString(luxon.DateTime.TIME_SIMPLE)
+console.log("in_the_meme_time_time");
+console.log(in_the_meme_time_time);
+document.getElementById("in_the_meme_time_time").innerHTML = in_the_meme_time_time;
+
+
+// Contributor Appreciation Day
+var contributor_appreciation_day = luxon.DateTime.fromISO("2017-05-15T11:00:00", { zone: "America/Los_Angeles" });
+var contributor_appreciation_day = contributor_appreciation_day.toLocal();
+var contributor_appreciation_day = contributor_appreciation_day.toLocaleString(luxon.DateTime.TIME_SIMPLE)
+console.log("contributor_appreciation_day");
+console.log(contributor_appreciation_day);
+document.getElementById("contributor_appreciation_day").innerHTML = contributor_appreciation_day;
+
+
+// Tarot 4 Trans (T4T)
+var tarot_4_trans = luxon.DateTime.fromISO("2017-05-15T11:00:00", { zone: "America/Los_Angeles" });
+var tarot_4_trans = tarot_4_trans.toLocal();
+var tarot_4_trans = tarot_4_trans.toLocaleString(luxon.DateTime.TIME_SIMPLE)
+console.log("tarot_4_trans");
+console.log(tarot_4_trans);
+document.getElementById("tarot_4_trans").innerHTML = tarot_4_trans;
+
+
+</script>
+</body>
