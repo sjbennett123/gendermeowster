@@ -3,6 +3,7 @@ title: Contributors
 # Bios Reference https://docs.google.com/document/d/1nShgv3tFabyAbDXa1ylSSt0Tw4ucjW55cYVgEIMP5tk/edit?usp=sharing
 socialShare: false
 layout: contributors
+# staff_hide_debug: true
 team_list:
   - Admewns and Senior Staff
   - Bot Wranglers

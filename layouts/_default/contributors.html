@@ -39,10 +39,22 @@
 
 <h2>Staff Bios</h2>
 {{ $row_color := "FFF430"}}
+{{- $staff_list := .Params.staff  -}}
+{{- $staff_list_show := where  $staff_list ".hidden" "ne" true -}}
+{{- $staff_list_hide := where  $staff_list ".hidden" "eq" true -}}
 
+{{ if .Params.staff_hide_debug }}
+<h2> Hidden Staff </h2>
+<ul>
+{{ range sort $staff_list_hide "name" }}
+<li>{{ .name }}</li>
+{{ end }}
+</ul>
+
+{{ end }} 
 <table>
-{{ range sort .Params.staff "name" }}
-{{ if .hidden}}<h1> {{ .name }} WILL BE REMOVED</h1> {{ end }}
+
+{{ range sort $staff_list_show "name" }}
 {{ if eq $row_color "FFF430" }}{{ $row_color = "9C59D1"}}
 {{ else if eq $row_color "9C59D1" }}{{ $row_color = "FFF430"}}{{ end }}
 
