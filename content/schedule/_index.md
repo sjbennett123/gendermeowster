@@ -54,8 +54,6 @@ Meowster's friends takeover the channel for a week, providing guest content whil
 
 ### Special Events
 
-#### Marathon Streams
-
 #### Mutual Aid Streams
 
 Often in collaboration with Gender Federation or Disabled Content Creators Collective.
