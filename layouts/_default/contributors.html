@@ -52,14 +52,13 @@
 </ul>
 
 {{ end }} 
-<table>
 
 {{ range sort $staff_list_show "name" }}
 {{ if eq $row_color "FFF430" }}{{ $row_color = "9C59D1"}}
 {{ else if eq $row_color "9C59D1" }}{{ $row_color = "FFF430"}}{{ end }}
-
-
-  <tr style="border-color: #{{- $row_color -}};  width=100%;border-style: solid; border-width: 5px;  border-radius: 10px; padding-bottom: 50px;"> 
+<div style="border-color: #{{- $row_color -}};  width=100%;border-style: solid; border-width: 5px;  border-radius: 10px; ">
+<table>
+  <tr > 
     <th width="20%" valign="top"><a href="{{ .website }}" target="_blank">
     
     {{ if .picture }}<img src="./{{ .picture }}" alt="{{ .name }}" style="height: auto;width: auto; max-width: 100px; max-height: 100px;padding-right: 10%;padding-left: 10%;">
@@ -69,14 +68,31 @@
     <th valign="top"><a href="{{ .website }}" target="_blank" id="{{ .name }}"><b>{{ .name }} {{ if .aka }} aka {{ .aka}} {{ end }}</a></b> ({{ .pronouns }}) {{ .bio | markdownify }}
     <p></p>
     </th></tr>
+</table>
+</div>
+
 {{ end }} 
-       </table>
 <h2>Board of Directors</h2>
-<ul>
 {{ range where .Params.staff "board" true }}
-<li><a href="#{{ .name }}">{{ .name }}</a></li>
+
+{{ if eq $row_color "FFF430" }}{{ $row_color = "9C59D1"}}
+{{ else if eq $row_color "9C59D1" }}{{ $row_color = "FFF430"}}{{ end }}
+<div style="border-color: #{{- $row_color -}};  width=100%;border-style: solid; border-width: 5px;  border-radius: 10px; ">
+<table>
+  <tr > 
+    <th width="20%" valign="top"><a href="{{ .website }}" target="_blank">
+    
+    {{ if .picture }}<img src="./{{ .picture }}" alt="{{ .name }}" style="height: auto;width: auto; max-width: 100px; max-height: 100px;padding-right: 10%;padding-left: 10%;">
+    {{ else }}<img src="./Gilbert_Baker_Pride_Progress.png" alt="{{ .name }}" style="width:100px;height:100px;  padding-right: 30px;"> 
+    {{ end }}</a>
+    </th> 
+    <th valign="top"><a href="{{ .website }}" target="_blank" id="{{ .name }}"><b>{{ .name }} {{ if .aka }} aka {{ .aka}} {{ end }}</a></b> ({{ .pronouns }}) {{ .bio | markdownify }}
+    <p></p>
+    </th></tr>
+</table>
+</div>
+
 {{ end }} 
-</ul>
           {{ .Content | emojify }}
 
           
