@@ -56,16 +56,16 @@ Menus:
       title: Links
       url: /links
       weight: 6
-    - identifier: schedule
-      name: Schedule
-      title: Schedule
-      url: /schedule
-      weight: 7
-    - identifier: shows
-      name: Shows
-      title: Shows
-      url: /schedule#shows
-      weight: 7
+    # - identifier: schedule
+      # name: Schedule
+      # title: Schedule
+      # url: /schedule
+      # weight: 7
+    # - identifier: shows
+      # name: Shows
+      # title: Shows
+      # url: /schedule#shows
+      # weight: 7
 params:
   title: "GenderMeowster"
   description: 
