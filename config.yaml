@@ -46,11 +46,11 @@ Menus:
       title: Contact
       url: /#contact
       weight: 4
-    - identifier: contributors
-      name: Contributors
-      title: Contributors
-      url: /contributors
-      weight: 5
+    # - identifier: contributors
+      # name: Contributors
+      # title: Contributors
+      # url: /contributors
+      # weight: 5
     - identifier: links
       name: Links
       title: Links
